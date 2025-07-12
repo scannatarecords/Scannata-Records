@@ -496,6 +496,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
       type: TitleBlock
     subtitle: Meet Our Team Members at Scannata Records
     items:
