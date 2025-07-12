@@ -189,7 +189,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Expand your music career
       color: text-dark
       styles:
         self:
