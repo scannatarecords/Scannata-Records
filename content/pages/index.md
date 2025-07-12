@@ -43,6 +43,7 @@ sections:
           - pr-16
         margin:
           - mr-0
+        justifyContent: center
       subtitle:
         textAlign: center
         textDecoration: underline
