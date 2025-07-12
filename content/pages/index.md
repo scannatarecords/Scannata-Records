@@ -196,11 +196,10 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Scannata Records doesn't only help you get distributed on ALL platforms,
+      but also helps you with the creation of music & advertising on TikTok,
+      Facebook, YouTube & Instagram.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
