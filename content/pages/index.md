@@ -178,6 +178,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontStyle: italic
     type: ImageGallerySection
   - title: Divider
     colors: bg-light-fg-dark
