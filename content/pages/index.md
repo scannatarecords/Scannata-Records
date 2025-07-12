@@ -145,7 +145,7 @@ sections:
         textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/images (2).png
+      - url: /images/Adobe Express - file (5).png
         altText: Deezer
         type: ImageBlock
       - url: /images/images (1).png
