@@ -10,6 +10,7 @@ sections:
       styles:
         self:
           fontWeight: 700
+          textAlign: center
     subtitle: Find yourself the label you've always been looking for
     text: >
       Scannata Records is a record label created by an individual, for
