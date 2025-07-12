@@ -158,7 +158,7 @@ sections:
         altText: Telus logo
         type: ImageBlock
       - url: /images/amazon-music-charcoal.png
-        altText: Contentful logo
+        altText: Amazon Music
         type: ImageBlock
       - url: /images/sanity-logo.svg
         altText: Sanity logo
