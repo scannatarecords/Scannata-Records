@@ -38,7 +38,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Stats
+      text: Statistics
       color: text-dark
       styles:
         self:
