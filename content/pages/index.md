@@ -146,7 +146,7 @@ sections:
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/images (2).png
-        altText: Wellster logo
+        altText: Deezer
         type: ImageBlock
       - url: /images/images (1).png
         altText: Empathy logo
