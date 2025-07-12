@@ -155,7 +155,7 @@ sections:
         altText: Vise logo
         type: ImageBlock
       - url: /images/images (4).png
-        altText: Telus logo
+        altText: Apple Music
         type: ImageBlock
       - url: /images/amazon-music-charcoal.png
         altText: Amazon Music
