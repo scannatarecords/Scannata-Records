@@ -343,7 +343,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/image_2025-07-12_230838654.png
           altText: John Doe
           styles:
             self:
