@@ -160,9 +160,6 @@ sections:
       - url: /images/Adobe Express - file (3).png
         altText: Amazon Music
         type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
     motion: move-to-left
     colors: bg-neutral-fg-dark
     styles:
