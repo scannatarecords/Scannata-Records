@@ -189,7 +189,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Expand your music career
+      text: Expand Your Music Career
       color: text-dark
       styles:
         self:
