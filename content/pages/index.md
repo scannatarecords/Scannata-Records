@@ -42,6 +42,7 @@ sections:
           - pr-16
       subtitle:
         textAlign: center
+        textDecoration: underline
   - type: FeaturedItemsSection
     title:
       text: Statistics
