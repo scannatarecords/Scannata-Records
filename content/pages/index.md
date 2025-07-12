@@ -44,7 +44,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Our statistics for Scannata Records
+    subtitle: Our statistics
     items:
       - type: FeaturedItem
         title: $4M+
