@@ -590,7 +590,7 @@ sections:
       styles:
         self:
           fontWeight: 700
-    subtitle: ''
+    subtitle: a
     text: >+
       If you're interested to be signed by Scannata Records, then you can
       contact us.
