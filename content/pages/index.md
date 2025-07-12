@@ -149,7 +149,7 @@ sections:
         altText: Deezer
         type: ImageBlock
       - url: /images/images (1).png
-        altText: Empathy logo
+        altText: SoundCloud
         type: ImageBlock
       - url: /images/file (1).svg
         altText: Spotify
