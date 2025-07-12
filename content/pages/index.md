@@ -42,7 +42,7 @@ sections:
           - pb-16
           - pr-16
         margin:
-          - mr-4
+          - mr-0
       subtitle:
         textAlign: center
         textDecoration: underline
