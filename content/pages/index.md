@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Scannata Records
+      text: Scannata Records Record Label
       color: text-dark
       type: TitleBlock
     subtitle: Find yourself the label you've always been looking for
