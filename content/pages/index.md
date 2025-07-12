@@ -8,9 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Find yourself the label you've always been looking for
-    text: >
+    text: >+
       Scannata Records is a record label created by an individual, for
       individuals.
+
     actions:
       - label: Get started
         altText: ''
