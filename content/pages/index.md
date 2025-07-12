@@ -494,7 +494,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: ''
+    subtitle: Meet Our Team Members at Scannata Records
     items:
       - title: Feature Item One
         tagline: This is the tagline
