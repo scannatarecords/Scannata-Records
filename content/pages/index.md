@@ -50,10 +50,9 @@ sections:
       - type: FeaturedItem
         title: 4M+
         subtitle: Money to artists
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          Estimated value of our artists - what they made since we signed them.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
