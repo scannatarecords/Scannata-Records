@@ -12,9 +12,10 @@ sections:
           fontWeight: 700
           textAlign: center
     subtitle: Find yourself the label you've always been looking for
-    text: >
-      Scannata Records is a record label created by an individual, for
-      individuals - Founded in 2023
+    text: >+
+      <div style="text-align: center">> Scannata Records is a record label
+      created by an individual, for individuals - Founded in 2023</div>
+
     actions:
       - label: Get started
         altText: ''
