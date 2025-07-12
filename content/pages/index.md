@@ -45,7 +45,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Our statistics for Scannata Records
     items:
       - type: FeaturedItem
         title: 500k
