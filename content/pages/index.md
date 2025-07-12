@@ -591,13 +591,16 @@ sections:
         self:
           fontWeight: 700
     subtitle: ''
-    text: >
+    text: >+
       If you're interested to be signed by Scannata Records, then you can
       contact us.
 
 
       Whereas if you're a company interested to work with us, you can also
       contact us by filling out this form.
+
+
+
     media:
       fields:
         - name: name
