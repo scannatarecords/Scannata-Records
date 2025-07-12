@@ -157,7 +157,7 @@ sections:
       - url: /images/images (4).png
         altText: Apple Music
         type: ImageBlock
-      - url: /images/amazon-music-charcoal.png
+      - url: /images/Adobe Express - file (3).png
         altText: Amazon Music
         type: ImageBlock
       - url: /images/sanity-logo.svg
