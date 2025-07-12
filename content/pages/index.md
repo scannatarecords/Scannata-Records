@@ -152,7 +152,7 @@ sections:
         altText: Empathy logo
         type: ImageBlock
       - url: /images/file (1).svg
-        altText: Vise logo
+        altText: Spotify
         type: ImageBlock
       - url: /images/images (4).png
         altText: Apple Music
