@@ -584,7 +584,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Interested? Contact Us!
+      text: Interested? Contact Us
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
