@@ -100,10 +100,9 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Growth
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We grow by 200 percent quicker compared to other start-up record
+          labels.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
