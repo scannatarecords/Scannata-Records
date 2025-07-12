@@ -142,7 +142,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Award winning enterprises trust us with music distribution
     images:
       - url: /images/Adobe Express - file (6).png
         altText: Deezer
