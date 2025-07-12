@@ -483,7 +483,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
     elementId: null
-    variant: dots-nav
+    variant: next-prev-nav-multiple
     colors: bg-neutral-fg-dark
     styles:
       self:
