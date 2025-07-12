@@ -488,7 +488,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Meet Our Team
       color: text-primary
       styles:
         self:
