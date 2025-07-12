@@ -587,6 +587,9 @@ sections:
       text: Interested? Contact Us
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 700
     subtitle: ''
     text: >
       If you're interested to be signed by Scannata Records, then you can
