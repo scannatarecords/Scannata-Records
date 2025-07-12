@@ -151,7 +151,7 @@ sections:
       - url: /images/images (2).png
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/images (3).png
+      - url: /images/Adobe Express - file (1).png
         altText: Vise logo
         type: ImageBlock
       - url: /images/images (4).png
