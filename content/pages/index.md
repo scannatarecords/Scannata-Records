@@ -637,7 +637,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Contact
+      label: Contact Scannata Records
       color: text-primary
       type: Badge
     colors: bg-neutral-fg-dark
