@@ -588,11 +588,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      If you're interested to be signed by Scannata Records, then you can
+      contact us.
+
+
+      Whereas if you're a company interested to work with us, you can also
+      contact us by filling out this form.
     media:
       fields:
         - name: name
