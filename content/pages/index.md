@@ -151,7 +151,7 @@ sections:
       - url: /images/images (1).png
         altText: SoundCloud
         type: ImageBlock
-      - url: /images/file (1).svg
+      - url: /images/Adobe Express - file (1).png
         altText: Spotify
         type: ImageBlock
       - url: /images/images (4).png
