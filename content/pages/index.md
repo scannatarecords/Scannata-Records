@@ -148,7 +148,7 @@ sections:
       - url: /images/images (1).png
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/Deezer-Logo.webp
+      - url: /images/images (2).png
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
