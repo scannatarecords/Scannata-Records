@@ -154,7 +154,7 @@ sections:
       - url: /images/Adobe Express - file (2).png
         altText: Spotify
         type: ImageBlock
-      - url: /images/images (4).png
+      - url: /images/Adobe Express - file (4).png
         altText: Apple Music
         type: ImageBlock
       - url: /images/Adobe Express - file (3).png
