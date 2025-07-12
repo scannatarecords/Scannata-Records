@@ -179,6 +179,7 @@ sections:
       subtitle:
         textAlign: center
         fontStyle: italic
+        fontWeight: 700
     type: ImageGallerySection
   - title: Divider
     colors: bg-light-fg-dark
