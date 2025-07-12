@@ -195,7 +195,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: Expand your music career with Scannata Records
     text: >
       Scannata Records doesn't only help you get distributed on ALL platforms,
       but also helps you with the creation of music & advertising on TikTok,
