@@ -460,7 +460,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/img-placeholder-dark.png
+          url: /images/image0.jpg
           altText: Jane Doe
           styles:
             self:
