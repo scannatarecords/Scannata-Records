@@ -240,8 +240,7 @@ sections:
     text: ''
     actions: []
     media:
-      url: >-
-        /images/popular-music-streaming-servise-company-logo-set-amazon-music-tidal-apple-music-deezer-youtube-music-spotify-itunes-shazam-rivne-ukraine-november-20-2023-free-vector.jpg
+      url: /images/Adobe Express - file.jpg
       altText: Fun feature preview
       type: ImageBlock
     colors: bg-neutral-fg-dark
