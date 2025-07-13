@@ -238,14 +238,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: ''
-    actions:
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+    actions: []
     media:
       url: /images/6674fe762d4c6b001d683571.jfif
       altText: Fun feature preview
