@@ -295,10 +295,7 @@ sections:
           listeners per month."
         tagline: Testimonial 2
         subtitle: anonymous
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/image_2025-07-12_230838654.png
           altText: John Doe
