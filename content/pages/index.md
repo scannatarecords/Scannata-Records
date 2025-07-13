@@ -504,7 +504,7 @@ sections:
             flexDirection: col
             textAlign: left
         type: FeaturedItem
-      - title: Oyamide O.
+      - title: Ayomide O.
         tagline: 3D Modeller
         subtitle: ''
         text: ''
