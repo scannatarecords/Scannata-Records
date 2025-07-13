@@ -236,7 +236,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: ''
+    subtitle: A
     text: ''
     actions: []
     media:
