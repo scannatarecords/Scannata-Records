@@ -213,7 +213,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Distributed on ALL platforms!
       color: text-dark
       styles:
         self:
