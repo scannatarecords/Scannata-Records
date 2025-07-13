@@ -509,7 +509,7 @@ sections:
         subtitle: ''
         text: ''
         image:
-          url: /images/IMG_3853.jpg
+          url: /images/p_Q32PY3_400x400 (1).jpg
           altText: Placeholder image
           styles:
             self:
