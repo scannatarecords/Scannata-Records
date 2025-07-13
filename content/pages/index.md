@@ -582,10 +582,11 @@ sections:
       - type: FeaturedItem
         title: Software Engineer
         subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Are you done with college and have 2+ years of experience with
+          developing software, then apply for this amazing position @ Scannata
+          Records.
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
