@@ -4,14 +4,18 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Scannata Records
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      styles:
+        self:
+          fontWeight: 700
+          textAlign: center
+    subtitle: Find yourself the label you've always been looking for
+    text: >+
+      <div style="text-align: center">Scannata Records is a record label created
+      by an individual, for individuals - Founded in 2023</div>
+
     actions:
       - label: Get started
         altText: ''
@@ -22,52 +26,44 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
-      url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
-        alignItems: center
+        alignItems: flex-end
         flexDirection: row
         padding:
           - pt-16
           - pl-16
           - pb-16
           - pr-16
+        margin:
+          - mr-0
+        justifyContent: center
+      subtitle:
+        textAlign: center
+        textDecoration: underline
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Statistics
       color: text-dark
       styles:
         self:
           textAlign: center
+          fontWeight: 700
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Our statistics
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: $4M+
+        subtitle: Money to artists
+        text: |+
+          Estimated value of our artists - what they made since we signed them.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -90,12 +86,10 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: '23'
+        subtitle: Artists Signed
+        text: |
+          Since 2023, we have signed 23 artists.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -116,11 +110,10 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Growth
+        text: >
+          We grow by 200 percent quicker compared to other start-up record
+          labels.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -139,22 +132,15 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Continue
         altText: ''
         url: /
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
         type: Button
-    badge:
-      label: This is a badge
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
@@ -168,56 +154,33 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Award winning enterprises trust us with music distribution
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
+      - url: /images/Adobe Express - file (6).png
+        altText: Deezer
         type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
+      - url: /images/images (1).png
+        altText: SoundCloud
         type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
+      - url: /images/Adobe Express - file (7).png
+        altText: Spotify
         type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
+      - url: /images/Adobe Express - file (4).png
+        altText: Apple Music
         type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
+      - url: /images/Adobe Express - file (3).png
+        altText: Amazon Music
         type: ImageBlock
     motion: move-to-left
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontStyle: italic
+        fontWeight: 700
     type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -229,46 +192,18 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Expand Your Music Career
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
-    badge:
-      label: Key Benefits
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
+    subtitle: Expand your music career with Scannata Records
+    text: >
+      Scannata Records doesn't only help you get distributed on ALL platforms,
+      but also helps you with the creation of music & advertising on TikTok,
+      Facebook, YouTube & Instagram.
+    colors: bg-neutral-fg-dark
     styles:
       self:
         flexDirection: col
@@ -312,7 +247,7 @@ sections:
           borderRadius: large
       type: VideoBlock
     elementId: null
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         flexDirection: row
@@ -349,49 +284,13 @@ sections:
       label: This is a badge
       color: text-primary
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         alignItems: center
-    type: GenericSection
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
     type: GenericSection
   - title: Divider
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
@@ -414,7 +313,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/image0.jpg
           altText: Maria Walters
           styles:
             self:
@@ -435,7 +334,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
+          "Design is a plan for arranging elements in such a way as best to
+          accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
@@ -443,7 +343,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/image_2025-07-12_230838654.png
           altText: John Doe
           styles:
             self:
@@ -464,7 +364,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
@@ -523,7 +424,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
+          "Design can be art. Design can be aesthetics. Design is so simple,
+          that's why it is so complicated."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
@@ -552,7 +454,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          “Quote from some important person goes right here. I love using
+          Netlify Create.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
@@ -560,7 +463,6 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/img-placeholder-dark.png
           altText: Jane Doe
           styles:
             self:
@@ -581,21 +483,22 @@ sections:
             justifyContent: center
         type: FeaturedItem
     elementId: null
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
+    variant: dots-nav
+    colors: bg-neutral-fg-dark
     styles:
       self:
         justifyContent: center
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Meet Our Team
       color: text-primary
       styles:
         self:
           textAlign: center
+          fontWeight: 700
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Meet Our Team Members at Scannata Records
     items:
       - title: Feature Item One
         tagline: This is the tagline
@@ -609,7 +512,7 @@ sections:
             self:
               borderRadius: x-large
           type: ImageBlock
-        colors: bg-light-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -632,7 +535,7 @@ sections:
             self:
               borderRadius: x-large
           type: ImageBlock
-        colors: bg-light-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -646,8 +549,9 @@ sections:
       - title: Feature Item Three
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+        text: >
+          Learn from the tutorial and build your first awesome Netlify Create
+          site.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
@@ -655,7 +559,7 @@ sections:
             self:
               borderRadius: x-large
           type: ImageBlock
-        colors: bg-light-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -680,15 +584,23 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: Interested? Contact Us
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+      styles:
+        self:
+          fontWeight: 700
+    subtitle: ''
+    text: >+
+      If you're interested to be signed by Scannata Records, then you can
+      contact us.
+
+
+      Whereas if you're a company interested to work with us, you can also
+      contact us by filling out this form.
+
+
+
     media:
       fields:
         - name: name
@@ -730,13 +642,13 @@ sections:
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: null
     badge:
-      label: Contact Us
+      label: Contact Scannata Records
       color: text-primary
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     type: GenericSection
 seo:
   metaTitle: Home - Demo site
