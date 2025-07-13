@@ -451,7 +451,7 @@ sections:
     items:
       - title: Angeal S.
         tagline: Social Media Manager
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
