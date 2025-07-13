@@ -474,7 +474,7 @@ sections:
         type: FeaturedItem
       - title: Kacper Noah Hniedziejko
         tagline: Founder & CEO
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
