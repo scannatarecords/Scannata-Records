@@ -495,7 +495,7 @@ sections:
             textAlign: left
         type: FeaturedItem
       - title: Oyamide O.
-        tagline: This is the tagline
+        tagline: 3D Modeller
         subtitle: This is the item subtitle
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
