@@ -240,7 +240,8 @@ sections:
     text: ''
     actions: []
     media:
-      url: /images/6674fe762d4c6b001d683571.jfif
+      url: >-
+        /images/apple-music-spotify-youtube-music-soundcloud-deezer-tidal-set-logos-popular-music-streaming-services-vector-logos-238876104.webp
       altText: Fun feature preview
       type: ImageBlock
     colors: bg-neutral-fg-dark
