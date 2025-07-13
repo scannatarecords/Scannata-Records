@@ -267,7 +267,7 @@ sections:
           “Quick and easy solution for music distribution on all platforms - 3
           weeks and it's all distributed!”
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: Anonymous
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
