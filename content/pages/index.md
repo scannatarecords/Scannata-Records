@@ -236,7 +236,7 @@ sections:
       text: ALL our platforms we distribute on!
       color: text-dark
       type: TitleBlock
-    subtitle: ALL our platforms we distribute on!
+    subtitle: ''
     text: ''
     actions: []
     media:
