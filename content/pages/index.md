@@ -603,7 +603,7 @@ sections:
         url: /
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
     variant: toggle-list
     colors: bg-neutral-fg-dark
     styles:
