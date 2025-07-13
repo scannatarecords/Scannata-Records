@@ -320,10 +320,7 @@ sections:
       - title: '"If I could give 6 out of 5 starts, I would."'
         tagline: Testimonial 3
         subtitle: Andrew Walters
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
