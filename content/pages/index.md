@@ -294,7 +294,7 @@ sections:
           "Perfect way to grow your music career, and reach your first million
           listeners per month."
         tagline: Testimonial 2
-        subtitle: anonymous
+        subtitle: Anonymous Reviewer
         text: ''
         image:
           url: /images/image_2025-07-12_230838654.png
