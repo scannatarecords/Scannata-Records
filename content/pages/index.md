@@ -255,7 +255,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: /images/6674fe762d4c6b001d683571.jfif
       altText: Fun feature preview
       type: ImageBlock
     badge:
