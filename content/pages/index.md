@@ -250,7 +250,7 @@ sections:
         padding:
           - pr-0
         margin:
-          - mr-24
+          - mr-0
     type: GenericSection
   - title: Divider
     colors: bg-neutral-fg-dark
