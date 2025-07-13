@@ -450,7 +450,7 @@ sections:
     subtitle: Meet Our Team Members at Scannata Records
     items:
       - title: Social Media Manager
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
