@@ -454,7 +454,7 @@ sections:
         subtitle: ''
         text: ''
         image:
-          url: /images/Adobe Express - file (11).png
+          url: /images/img-placeholder-dark.png
           altText: Placeholder Image
           styles:
             self:
