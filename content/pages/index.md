@@ -529,6 +529,93 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Career Positions
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: Interested in a job at Scannata Records?
+    items:
+      - type: FeaturedItem
+        title: Accountant
+        subtitle: Sales
+        text: >
+          Are you an experienced accountant (5+ years), then we would love to
+          welcome you on our team!
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            textAlign: left
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Open Source Engineer
+        subtitle: Marketing
+        text: >
+          Are you a passionate marketeer and have finished college with atleast
+          9 months experience? Scannata Records would love to have you on the
+          team!
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            textAlign: left
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Software Engineer
+        subtitle: Engineering
+        text: >+
+          Are you done with college and have 2+ years of experience with
+          developing software, then apply for this amazing position @ Scannata
+          Records.
+
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions:
+      - type: Button
+        label: Apply now
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    variant: toggle-list
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-40
+          - pt-16
+          - pl-3
+          - pr-3
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - title:
       text: Interested? Contact Us
       color: text-dark
