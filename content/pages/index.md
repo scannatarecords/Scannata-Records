@@ -91,7 +91,7 @@ sections:
         text: |
           Since 2023, we have signed 19 artists.
         image:
-          url: /images/icon2.svg
+          url: /images/Adobe Express - file (11).png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
