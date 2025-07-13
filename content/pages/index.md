@@ -497,9 +497,7 @@ sections:
       - title: Oyamide O.
         tagline: 3D Modeller
         subtitle: ''
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: ''
         image:
           url: /images/Adobe Express - file (11).png
           altText: Placeholder image
