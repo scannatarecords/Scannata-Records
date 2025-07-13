@@ -250,10 +250,6 @@ sections:
       url: /images/6674fe762d4c6b001d683571.jfif
       altText: Fun feature preview
       type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
     colors: bg-neutral-fg-dark
     styles:
       self:
