@@ -471,7 +471,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Kacper Noah Hniedziejko
+      - title: Kacper Noah H.
         tagline: Founder & CEO
         subtitle: ''
         text: ''
