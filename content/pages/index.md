@@ -240,7 +240,7 @@ sections:
     text: ''
     actions: []
     media:
-      url: /images/Adobe Express - file.jpg
+      url: /images/Adobe Express - file (1).jpg
       altText: Fun feature preview
       type: ImageBlock
     colors: bg-neutral-fg-dark
