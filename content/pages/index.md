@@ -89,7 +89,7 @@ sections:
       - title: '19'
         subtitle: Artists Signed
         text: |
-          Since 2023, we have signed 23 artists.
+          Since 2023, we have signed 19 artists.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
