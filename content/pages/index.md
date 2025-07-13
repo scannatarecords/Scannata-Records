@@ -246,7 +246,7 @@ sections:
       styles:
         self:
           padding:
-            - pr-16
+            - pr-0
     colors: bg-neutral-fg-dark
     styles:
       self:
