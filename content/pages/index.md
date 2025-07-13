@@ -449,7 +449,7 @@ sections:
       type: TitleBlock
     subtitle: Meet Our Team Members at Scannata Records
     items:
-      - title: Feature Item One
+      - title: Angeal Sibere
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
