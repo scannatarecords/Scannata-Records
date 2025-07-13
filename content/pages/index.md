@@ -494,7 +494,7 @@ sections:
             flexDirection: col
             textAlign: left
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Oyamide O.
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
