@@ -562,10 +562,10 @@ sections:
       - type: FeaturedItem
         title: Open Source Engineer
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Are you a passionate marketeer and have finished college with atleast
+          9 months experience? Scannata Records would love to have you on the
+          team!
         actions: []
         colors: bg-neutral-fg-dark
         styles:
