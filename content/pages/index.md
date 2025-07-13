@@ -233,7 +233,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: All the platforms we distribute on!
+      text: Distributed on
       color: text-dark
       type: TitleBlock
     subtitle: ''
