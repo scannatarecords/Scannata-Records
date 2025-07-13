@@ -541,7 +541,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Accountant
-        subtitle: Sales
+        subtitle: Federal Taxes
         text: >
           Are you an experienced accountant (5+ years), then we would love to
           welcome you on our team!
