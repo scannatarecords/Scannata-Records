@@ -264,8 +264,8 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “Quick and easy solution for music distribution on all platforms - 3
+          weeks and it's all distributed!”
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
