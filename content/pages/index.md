@@ -182,7 +182,7 @@ sections:
         fontWeight: 700
     type: ImageGallerySection
   - title: Divider
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
