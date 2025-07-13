@@ -475,8 +475,7 @@ sections:
       - title: Kacper Noah Hniedziejko
         tagline: Founder & CEO
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: ''
         image:
           url: /images/1749674335214.jfif
           altText: Placeholder image
