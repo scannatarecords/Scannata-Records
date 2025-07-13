@@ -233,7 +233,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Distributed on →→
+      text: Distributed on →
       color: text-dark
       type: TitleBlock
     subtitle: ''
