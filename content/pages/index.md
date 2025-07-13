@@ -248,7 +248,10 @@ sections:
       self:
         alignItems: center
         padding:
-          - pr-0
+          - pr-36
+          - pt-36
+          - pl-36
+          - pb-36
         margin:
           - mr-0
     type: GenericSection
