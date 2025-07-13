@@ -496,7 +496,7 @@ sections:
         type: FeaturedItem
       - title: Oyamide O.
         tagline: 3D Modeller
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
