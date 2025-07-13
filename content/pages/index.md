@@ -449,7 +449,7 @@ sections:
       type: TitleBlock
     subtitle: Meet Our Team Members at Scannata Records
     items:
-      - title: Angeal
+      - title: Angeal S.
         tagline: Social Media Manager
         subtitle: This is the item subtitle
         text: |
