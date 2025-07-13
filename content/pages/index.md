@@ -56,7 +56,7 @@ sections:
           textAlign: center
           fontWeight: 700
       type: TitleBlock
-    subtitle: Our statistics
+    subtitle: Our statistics for Scannata Recordsd
     items:
       - type: FeaturedItem
         title: $4M+
