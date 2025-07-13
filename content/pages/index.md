@@ -499,7 +499,7 @@ sections:
         subtitle: ''
         text: ''
         image:
-          url: /images/Adobe Express - file (11).png
+          url: /images/IMG_3853.jpg
           altText: Placeholder image
           styles:
             self:
@@ -541,7 +541,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Accountant
-        subtitle: Sales
+        subtitle: Federal Taxes
         text: >
           Are you an experienced accountant (5+ years), then we would love to
           welcome you on our team!
@@ -603,8 +603,8 @@ sections:
         url: /
         icon: arrowRight
         iconPosition: right
-        style: primary
-    variant: toggle-list
+        style: secondary
+    variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
