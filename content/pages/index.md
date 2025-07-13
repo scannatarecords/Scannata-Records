@@ -455,7 +455,7 @@ sections:
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
-          url: /images/1749674335214.jfif
+          url: /images/Adobe Express - file (11).png
           altText: Placeholder Image
           styles:
             self:
