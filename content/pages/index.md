@@ -115,7 +115,7 @@ sections:
           We grow by 200 percent quicker compared to other start-up record
           labels.
         image:
-          url: /images/icon3.svg
+          url: /images/Adobe Express - file (11).png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
