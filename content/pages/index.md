@@ -537,7 +537,7 @@ sections:
         self:
           fontWeight: 700
     subtitle: ''
-    text: >+
+    text: >
       If you're interested to be signed by Scannata Records, then you can
       contact us.
 
@@ -546,7 +546,8 @@ sections:
       contact us by filling out this form.
 
 
-
+      Perhaps you want to be a part of the Scannata Records family, and join our
+      team, then you can do that by filling out this form.
     media:
       fields:
         - name: name
