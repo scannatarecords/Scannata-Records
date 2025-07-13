@@ -271,7 +271,7 @@ sections:
         text: ''
         image:
           url: /images/image0.jpg
-          altText: Maria Walters
+          altText: Anonymous
           styles:
             self:
               borderRadius: full
