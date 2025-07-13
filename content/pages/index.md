@@ -249,6 +249,8 @@ sections:
         alignItems: center
         padding:
           - pr-0
+        margin:
+          - mr-24
     type: GenericSection
   - title: Divider
     colors: bg-neutral-fg-dark
