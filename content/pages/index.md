@@ -476,7 +476,7 @@ sections:
         subtitle: ''
         text: ''
         image:
-          url: /images/IMG_7651.png
+          url: /images/1749674335214.jfif
           altText: Placeholder image
           styles:
             self:
