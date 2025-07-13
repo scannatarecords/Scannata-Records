@@ -268,10 +268,7 @@ sections:
           weeks and it's all distributed!”
         tagline: Testimonial 1
         subtitle: Anonymous
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/image0.jpg
           altText: Maria Walters
