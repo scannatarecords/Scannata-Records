@@ -56,7 +56,7 @@ sections:
           textAlign: center
           fontWeight: 700
       type: TitleBlock
-    subtitle: Our statistics
+    subtitle: Our statistics for Scannata Records
     items:
       - type: FeaturedItem
         title: $4M+
@@ -182,7 +182,7 @@ sections:
         fontWeight: 700
     type: ImageGallerySection
   - title: Divider
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
@@ -213,39 +213,17 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Distributed on ALL platforms!
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: >
+      Spotify, Apple Music, Deezer, SoundCloud, Tidal, Amazon Music, TikTok,
+      Instagram...
     actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
     elementId: null
     colors: bg-neutral-fg-dark
     styles:
@@ -255,35 +233,17 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+    subtitle: ''
+    text: ''
+    actions: []
     media:
-      url: /images/hero2.svg
+      url: >-
+        /images/popular-music-streaming-servise-company-logo-set-amazon-music-tidal-apple-music-deezer-youtube-music-spotify-itunes-shazam-rivne-ukraine-november-20-2023-free-vector.jpg
       altText: Fun feature preview
       type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
     colors: bg-neutral-fg-dark
     styles:
       self:
@@ -304,17 +264,14 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “Quick and easy solution for music distribution on all platforms - 3
+          weeks and it's all distributed!”
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Anonymous Reviewer
+        text: ''
         image:
           url: /images/image0.jpg
-          altText: Maria Walters
+          altText: Anonymous
           styles:
             self:
               borderRadius: full
@@ -334,14 +291,11 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          "Perfect way to grow your music career, and reach your first million
+          listeners per month."
         tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Anonymous Reviewer
+        text: ''
         image:
           url: /images/image_2025-07-12_230838654.png
           altText: John Doe
@@ -363,15 +317,10 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
+      - title: '"If I could give 6 out of 5 starts, I would."'
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Andrew Walters
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
@@ -500,13 +449,12 @@ sections:
       type: TitleBlock
     subtitle: Meet Our Team Members at Scannata Records
     items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+      - title: Angeal S.
+        tagline: Social Media Manager
+        subtitle: ''
+        text: ''
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/img-placeholder-dark.png
           altText: Placeholder Image
           styles:
             self:
@@ -523,13 +471,12 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+      - title: Kacper Noah H.
+        tagline: Founder & CEO
+        subtitle: ''
+        text: ''
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/1749674335214.jfif
           altText: Placeholder image
           styles:
             self:
@@ -545,15 +492,14 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+            textAlign: left
         type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+      - title: Oyamide O.
+        tagline: 3D Modeller
+        subtitle: ''
+        text: ''
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Adobe Express - file (11).png
           altText: Placeholder image
           styles:
             self:
@@ -591,7 +537,7 @@ sections:
         self:
           fontWeight: 700
     subtitle: ''
-    text: >+
+    text: >
       If you're interested to be signed by Scannata Records, then you can
       contact us.
 
@@ -600,7 +546,8 @@ sections:
       contact us by filling out this form.
 
 
-
+      Perhaps you want to be a part of the Scannata Records family, and join our
+      team, then you can do that by filling out this form.
     media:
       fields:
         - name: name

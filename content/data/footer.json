@@ -1,32 +1,26 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/Adobe Express - file (11).png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "Scannata Records®\n\n",
+    "text": "",
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
             "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
+            "url": "https://www.linkedin.com/in/kacper-hniedziejko-a8801636b/?originalSubdomain=be",
             "icon": "linkedin",
             "type": "Social"
         },
         {
-            "altText": "Email link",
-            "url": "/",
+            "altText": "Twitter link",
+            "url": "https://twitter.com/scannatarecords",
+            "icon": "twitter",
+            "type": "Social"
+        },
+        {
+            "altText": "Email",
+            "url": "louisscannata@gmail.com",
             "icon": "mail",
             "type": "Social"
         }
