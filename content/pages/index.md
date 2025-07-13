@@ -452,8 +452,7 @@ sections:
       - title: Angeal S.
         tagline: Social Media Manager
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: ''
         image:
           url: /images/Adobe Express - file (11).png
           altText: Placeholder Image
