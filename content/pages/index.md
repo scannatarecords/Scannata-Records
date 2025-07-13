@@ -537,7 +537,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: Interested in a job at Scannata Records?
     items:
       - type: FeaturedItem
         title: Accountant
