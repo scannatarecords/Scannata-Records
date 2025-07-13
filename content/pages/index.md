@@ -243,6 +243,10 @@ sections:
       url: /images/Adobe Express - file (1).jpg
       altText: Fun feature preview
       type: ImageBlock
+      styles:
+        self:
+          padding:
+            - pr-16
     colors: bg-neutral-fg-dark
     styles:
       self:
