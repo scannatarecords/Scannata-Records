@@ -82,16 +82,16 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/Adobe Express - file (11).png
           styles:
             self:
               borderRadius: x-large
-      - title: '23'
+      - title: '19'
         subtitle: Artists Signed
         text: |
-          Since 2023, we have signed 23 artists.
+          Since 2023, we have signed 19 artists.
         image:
-          url: /images/icon2.svg
+          url: /images/Adobe Express - file (11).png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -115,7 +115,7 @@ sections:
           We grow by 200 percent quicker compared to other start-up record
           labels.
         image:
-          url: /images/icon3.svg
+          url: /images/Adobe Express - file (11).png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
