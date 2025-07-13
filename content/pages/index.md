@@ -604,7 +604,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
-    variant: toggle-list
+    variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
