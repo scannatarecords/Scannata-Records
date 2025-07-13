@@ -499,7 +499,7 @@ sections:
         subtitle: ''
         text: ''
         image:
-          url: /images/Adobe Express - file (11).png
+          url: /images/IMG_3853.jpg
           altText: Placeholder image
           styles:
             self:
