@@ -241,7 +241,7 @@ sections:
     actions: []
     media:
       url: >-
-        /images/apple-music-spotify-youtube-music-soundcloud-deezer-tidal-set-logos-popular-music-streaming-services-vector-logos-238876104.webp
+        /images/popular-music-streaming-servise-company-logo-set-amazon-music-tidal-apple-music-deezer-youtube-music-spotify-itunes-shazam-rivne-ukraine-november-20-2023-free-vector.jpg
       altText: Fun feature preview
       type: ImageBlock
     colors: bg-neutral-fg-dark
