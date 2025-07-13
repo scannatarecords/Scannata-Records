@@ -473,7 +473,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Kacper Noah Hniedziejko
-        tagline: This is the tagline
+        tagline: Founder & CEO
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
