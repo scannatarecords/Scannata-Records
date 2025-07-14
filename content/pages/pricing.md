@@ -11,20 +11,18 @@ sections:
       type: TitleBlock
     subtitle: This is the subtitle for the pricing section
     plans:
-      - title: Developers
-        price: Free
-        details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+      - title: Individual Music Distribution
+        price: '$19,99'
+        details: Per Month
+        description: >
+          For $19.99 Per Month, You Gain access to: Free Spotify account
+          creation & Your Music Is Distributed To Numerous Platforms
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - Spotify Account Creation
+          - Distribute Music on Various Platforms
         image:
-          url: /images/abstract-feature1.svg
-          altText: Pricing plan 1
+          url: /images/Street Gangster (12).png
+          altText: Scannata
           type: ImageBlock
         actions:
           - label: Try for free
@@ -43,52 +41,22 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
-        price: $99
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-        image:
-          url: /images/abstract-feature2.svg
-          altText: Pricing plan 2
-          type: ImageBlock
-        actions:
-          - label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-        type: PricingPlan
-      - title: Enterprise
+      - title: Premium Music DistributiOn
         price: Custom
-        details: per month
+        details: Per Month
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
+          - All Platforms Account Creation
+          - Social Media Management
+          - Collaboration With Various Artists
+          - Distribution on All Platforms
+          - Real Life Concert Organisers
+          - Sample Beats Without Copyright
+          - Largest Premium Sound Catalog
         image:
-          url: /images/abstract-feature3.svg
+          url: /images/Street Gangster (12).png
           altText: Pricing plan 3
           type: ImageBlock
         actions:
