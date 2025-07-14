@@ -24,7 +24,7 @@ sections:
           - Feature four
         image:
           url: /images/Street Gangster (12).png
-          altText: Pricing plan 2
+          altText: Scannata
           type: ImageBlock
         actions:
           - label: Try for free
