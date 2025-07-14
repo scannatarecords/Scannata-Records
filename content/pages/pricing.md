@@ -41,7 +41,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Premium Individual Music Distribution
+      - title: Premium Music Distribution
         price: Custom
         details: per month
         description: >-
