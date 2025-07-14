@@ -19,7 +19,7 @@ sections:
           accusantium doloremque.
         features:
           - Spotify Account Creation
-          - Feature two
+          - Distribute Music on Various Platforms
           - Feature three
           - Feature four
         image:
