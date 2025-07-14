@@ -11,11 +11,8 @@ sections:
       type: TitleBlock
     subtitle: At Scannata we value teamwork
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      Scannata Records believes in an honest team that is determined to grow and
+      expand Scannata as not only a team, but as a family.
     actions:
       - label: See open positions
         url: /
