@@ -23,7 +23,7 @@ sections:
           - Feature three
           - Feature four
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/Street Gangster (12).png
           altText: Pricing plan 2
           type: ImageBlock
         actions:
