@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 'Scannata Records '
+    subtitle: Scannata Records Pricing Plans
     plans:
       - title: Individual Music Distribution
         price: '$19,99'
