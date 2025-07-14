@@ -1,9 +1,9 @@
 {
-    "name": "Rhonda Piper",
-    "role": "Job title",
+    "name": "Ayomide O.",
+    "role": "",
     "image": {
-        "url": "/images/avatar1.svg",
-        "altText": "Rhonda Piper",
+        "url": "/images/Adobe Express - file (2).jpg",
+        "altText": "Ayomide O.",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -14,7 +14,7 @@
         },
         "type": "ImageBlock"
     },
-    "colors": "bg-light-fg-dark",
+    "colors": "bg-neutral-fg-dark",
     "styles": {
         "self": {
             "padding": [
@@ -32,5 +32,5 @@
         }
     },
     "type": "Person",
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "3D Modeler\n"
 }

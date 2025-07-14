@@ -8,20 +8,18 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: At Scannata we value teamwork
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      Scannata Records believes in an honest team that is determined to grow and
+      expand Scannata as not only a team, but as a family.
     actions:
       - label: See open positions
         url: /
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         type: Button
     colors: bg-neutral-fg-dark
     styles:
@@ -38,6 +36,8 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
+        fontStyle: italic
+        textDecoration: underline
     type: GenericSection
     backgroundImage:
       type: BackgroundImage
@@ -46,23 +46,20 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/abstract-background.svg
   - title:
       text: Meet the team
       color: text-dark
       styles:
         self:
           textAlign: center
+          fontWeight: 700
       type: TitleBlock
     people:
       - content/data/person1.json
       - content/data/person2.json
       - content/data/person3.json
-      - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
     variant: three-col-grid
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
@@ -80,15 +77,19 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Looking for a job? Apply for one at Scannata Records!
     items:
-      - title: Account Executive
-        subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Accountant
+        subtitle: Federal Taxes
+        text: >+
+          Are you an experienced accountant (5+ years), then we would love to
+          welcome you on our team!
+
+
+
+
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -104,10 +105,11 @@ sections:
         type: FeaturedItem
       - title: Open Source Engineer
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Are you a passionate marketeer and have finished college with atleast
+          9 months experience? Scannata Records would love to have you on the
+          team!
+
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -121,12 +123,16 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Senior Software Engineer
+      - title: Software Engineer
         subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Are you done with college and have 2+ years of experience with
+          developing software, then apply for this amazing position @ Scannata
+          Records.
+
+
+
+
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -143,10 +149,10 @@ sections:
         url: /
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         type: Button
-    variant: toggle-list
-    colors: bg-light-fg-dark
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
