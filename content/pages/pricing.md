@@ -13,7 +13,7 @@ sections:
     plans:
       - title: Individual Music Distribution
         price: '$19,99'
-        details: per month
+        details: Per Month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
