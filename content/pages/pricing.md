@@ -3,13 +3,13 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: Pricing
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Scannata Records Pricing Plans
     plans:
       - title: Individual Music Distribution
         price: '$19,99'
@@ -41,9 +41,11 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Premium Music DistributiOn
-        price: Custom
-        details: Per Month
+      - title: Premium Music Distribution
+        price: Inquire
+        details: >-
+          Give us a call, or email us to see what your needs are, and we'll give
+          you a price!
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
