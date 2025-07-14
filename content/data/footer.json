@@ -23,6 +23,13 @@
             "url": "louisscannata@gmail.com",
             "icon": "mail",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "https://www.instagram.com/scannata.records/",
+            "icon": "instagram",
+            "elementId": ""
         }
     ],
     "legalLinks": [
