@@ -197,6 +197,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
       type: TitleBlock
     subtitle: Expand your music career with Scannata Records
     text: >
@@ -218,6 +219,7 @@ sections:
       styles:
         self:
           textAlign: left
+          fontWeight: 700
       type: TitleBlock
     subtitle: ''
     text: >
@@ -236,6 +238,9 @@ sections:
       text: Distributed on →
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 700
     subtitle: ''
     text: ''
     actions: []
@@ -449,183 +454,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: Meet Our Team
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-          fontWeight: 700
-      type: TitleBlock
-    subtitle: Meet Our Team Members at Scannata Records
-    items:
-      - title: Angeal S.
-        tagline: Social Media Manager
-        subtitle: ''
-        text: ''
-        image:
-          url: /images/img-placeholder-dark.png
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Kacper Noah H.
-        tagline: Founder & CEO
-        subtitle: ''
-        text: ''
-        image:
-          url: /images/me.png
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-            textAlign: left
-        type: FeaturedItem
-      - title: Ayomide O.
-        tagline: 3D Modeller
-        subtitle: ''
-        text: ''
-        image:
-          url: /images/p_Q32PY3_400x400 (1).jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Career Positions
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: Interested in a job at Scannata Records?
-    items:
-      - type: FeaturedItem
-        title: Accountant
-        subtitle: Federal Taxes
-        text: >
-          Are you an experienced accountant (5+ years), then we would love to
-          welcome you on our team!
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            textAlign: left
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: Open Source Engineer
-        subtitle: Marketing
-        text: >
-          Are you a passionate marketeer and have finished college with atleast
-          9 months experience? Scannata Records would love to have you on the
-          team!
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            textAlign: left
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: Software Engineer
-        subtitle: Engineering
-        text: >+
-          Are you done with college and have 2+ years of experience with
-          developing software, then apply for this amazing position @ Scannata
-          Records.
-
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-    actions:
-      - type: Button
-        label: Apply now
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-40
-          - pt-16
-          - pl-3
-          - pr-3
-        justifyContent: center
-      subtitle:
-        textAlign: center
+        fontWeight: 700
   - title:
       text: Interested? Contact Us
       color: text-dark
