@@ -46,9 +46,11 @@ sections:
         details: >-
           Give us a call, or email us to see what your needs are, and we'll give
           you a price!
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          We offer comprehensive services including account creation on all
+          platforms, social media management, artist collaborations, music
+          distribution, real-life concert organization, copyright-free sample
+          beats, and access to the largest premium sound catalog.
         features:
           - All Platforms Account Creation
           - Social Media Management
