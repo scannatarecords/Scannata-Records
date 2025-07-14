@@ -54,6 +54,7 @@ sections:
           - Distribution on All Platforms
           - Real Life Concert Organisers
           - Sample Beats Without Copyright
+          - ''
         image:
           url: /images/Street Gangster (12).png
           altText: Pricing plan 3
