@@ -21,7 +21,7 @@ sections:
         url: /
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         type: Button
     colors: bg-neutral-fg-dark
     styles:
