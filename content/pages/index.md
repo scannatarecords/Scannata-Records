@@ -197,6 +197,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
       type: TitleBlock
     subtitle: Expand your music career with Scannata Records
     text: >
