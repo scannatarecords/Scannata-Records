@@ -51,7 +51,7 @@ sections:
           - All Platforms Account Creation
           - Social Media Management
           - Collaboration With Various Artists
-          - Distribution on
+          - Distribution on All Platforms
           - Feature five
         image:
           url: /images/Street Gangster (12).png
