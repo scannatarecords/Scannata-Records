@@ -1,5 +1,5 @@
 ---
-title: Scannata Records
+title: Scannata Records - Record Label
 slug: /
 sections:
   - type: GenericSection
