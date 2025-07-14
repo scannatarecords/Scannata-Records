@@ -43,7 +43,7 @@ sections:
         type: PricingPlan
       - title: Premium Music Distribution
         price: Inquire
-        details: ''
+        details: 'Contact us to see what your needs are, and we''ll give you a price!'
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
