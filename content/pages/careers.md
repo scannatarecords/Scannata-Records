@@ -79,10 +79,13 @@ sections:
     items:
       - title: Accountant
         subtitle: Federal Taxes
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Are you an experienced accountant (5+ years), then we would love to
+          welcome you on our team!
+
+
+
+
         colors: bg-neutral-fg-dark
         styles:
           self:
