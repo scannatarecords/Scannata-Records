@@ -75,7 +75,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Looking for a job? Apply for one at Scannata Records
+    subtitle: Looking for a job? Apply for one at Scannata Records!
     items:
       - title: Accountant
         subtitle: Federal Taxes
