@@ -49,7 +49,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam.
         features:
           - All Platforms Account Creation
-          - Feature two
+          - Social Media Management
           - Feature three
           - Feature four
           - Feature five
