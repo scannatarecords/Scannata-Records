@@ -233,21 +233,31 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: ''
+      text: Distributed on →
       color: text-dark
       type: TitleBlock
     subtitle: ''
     text: ''
     actions: []
     media:
-      url: >-
-        /images/popular-music-streaming-servise-company-logo-set-amazon-music-tidal-apple-music-deezer-youtube-music-spotify-itunes-shazam-rivne-ukraine-november-20-2023-free-vector.jpg
+      url: /images/Adobe Express - file (1).jpg
       altText: Fun feature preview
       type: ImageBlock
+      styles:
+        self:
+          padding:
+            - pr-0
     colors: bg-neutral-fg-dark
     styles:
       self:
         alignItems: center
+        padding:
+          - pr-0
+          - pt-0
+          - pl-0
+          - pb-0
+        margin:
+          - mr-0
     type: GenericSection
   - title: Divider
     colors: bg-neutral-fg-dark
@@ -476,7 +486,7 @@ sections:
         subtitle: ''
         text: ''
         image:
-          url: /images/1749674335214.jfif
+          url: /images/me.png
           altText: Placeholder image
           styles:
             self:
@@ -494,12 +504,12 @@ sections:
             flexDirection: col
             textAlign: left
         type: FeaturedItem
-      - title: Oyamide O.
+      - title: Ayomide O.
         tagline: 3D Modeller
         subtitle: ''
         text: ''
         image:
-          url: /images/IMG_3853.jpg
+          url: /images/p_Q32PY3_400x400 (1).jpg
           altText: Placeholder image
           styles:
             self:
