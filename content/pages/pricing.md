@@ -43,7 +43,7 @@ sections:
         type: PricingPlan
       - title: Premium Music Distribution
         price: Custom
-        details: per month
+        details: Per Month
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
