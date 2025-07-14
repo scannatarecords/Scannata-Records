@@ -42,7 +42,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Premium Music Distribution
-        price: Custom
+        price: ''
         details: Per Month
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
