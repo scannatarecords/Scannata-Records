@@ -74,6 +74,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
       type: TitleBlock
     subtitle: Looking for a job? Apply for one at Scannata Records!
     items:
