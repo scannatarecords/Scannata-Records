@@ -53,6 +53,7 @@ sections:
           - Collaboration With Various Artists
           - Distribution on All Platforms
           - Real Life Concert Organisers
+          - ''
         image:
           url: /images/Street Gangster (12).png
           altText: Pricing plan 3
