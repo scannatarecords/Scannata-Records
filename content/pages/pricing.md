@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: This is the subtitle for the pricing section
     plans:
-      - title: Professional
+      - title: Individual Music Distribution
         price: $99
         details: per month
         description: >-
