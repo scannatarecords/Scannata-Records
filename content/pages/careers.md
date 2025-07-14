@@ -43,7 +43,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/Street Gangster (4).png
   - title:
       text: Meet the team
       color: text-dark
