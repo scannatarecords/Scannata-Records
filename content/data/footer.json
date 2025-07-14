@@ -1,6 +1,6 @@
 {
     "logo": {
-        "url": "/images/Adobe Express - file (11).png",
+        "url": "/images/Street Gangster (12).png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
@@ -11,6 +11,13 @@
             "url": "https://www.linkedin.com/in/kacper-hniedziejko-a8801636b/?originalSubdomain=be",
             "icon": "linkedin",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "https://www.instagram.com/scannata.records/",
+            "icon": "instagram",
+            "elementId": ""
         },
         {
             "altText": "Twitter link",
