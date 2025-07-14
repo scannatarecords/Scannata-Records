@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Scannata Records
 slug: /
 sections:
   - type: GenericSection
