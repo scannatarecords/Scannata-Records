@@ -78,7 +78,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - title: Accountant
-        subtitle: Sales
+        subtitle: Federal Taxes
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
