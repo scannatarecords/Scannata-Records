@@ -145,7 +145,7 @@ sections:
         url: /
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         type: Button
     variant: three-col-grid
     colors: bg-neutral-fg-dark
