@@ -99,7 +99,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: 'Open Source Engineer[9:44 PM]'
+      - title: Open Source Engineer
         subtitle: Marketing
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
