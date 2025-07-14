@@ -142,7 +142,7 @@ sections:
         iconPosition: right
         style: primary
         type: Button
-    variant: two-col-grid
+    variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
