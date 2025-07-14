@@ -50,7 +50,7 @@ sections:
         features:
           - All Platforms Account Creation
           - Social Media Management
-          - Feature three
+          - Collaboration With Various Artists
           - Feature four
           - Feature five
         image:
