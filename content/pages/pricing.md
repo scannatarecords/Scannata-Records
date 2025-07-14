@@ -14,9 +14,9 @@ sections:
       - title: Individual Music Distribution
         price: '$19,99'
         details: Per Month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          For $19.99 Per Month, You Gain access to: Free Spotify account
+          creation & Your Music Is Distributed To Numerous Platforms
         features:
           - Spotify Account Creation
           - Distribute Music on Various Platforms
