@@ -238,6 +238,9 @@ sections:
       text: Distributed on →
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 700
     subtitle: ''
     text: ''
     actions: []
