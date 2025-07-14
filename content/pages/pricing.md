@@ -12,7 +12,7 @@ sections:
     subtitle: This is the subtitle for the pricing section
     plans:
       - title: Individual Music Distribution
-        price: $99
+        price: '$19,99'
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
