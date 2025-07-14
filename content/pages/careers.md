@@ -49,6 +49,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
       type: TitleBlock
     people:
       - content/data/person1.json
