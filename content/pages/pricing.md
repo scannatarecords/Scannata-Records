@@ -16,7 +16,7 @@ sections:
         details: Per Month
         description: >
           For $19.99 Per Month, You Gain Access to: Spotify Account Creation &
-          Your Music is Distributed To Numerous Platforms
+          Your Music is Distributed to Numerous Platforms
         features:
           - Spotify Account Creation
           - Distribute Music on Various Platforms
