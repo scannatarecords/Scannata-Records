@@ -36,6 +36,7 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
+        fontStyle: italic
     type: GenericSection
     backgroundImage:
       type: BackgroundImage
