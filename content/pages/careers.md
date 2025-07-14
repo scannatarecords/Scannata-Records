@@ -37,7 +37,6 @@ sections:
       subtitle:
         textAlign: center
         fontStyle: italic
-        textDecoration: underline
     type: GenericSection
     backgroundImage:
       type: BackgroundImage
