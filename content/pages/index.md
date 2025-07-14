@@ -486,7 +486,7 @@ sections:
         subtitle: ''
         text: ''
         image:
-          url: /images/1749674335214.jfif
+          url: /images/me.png
           altText: Placeholder image
           styles:
             self:
