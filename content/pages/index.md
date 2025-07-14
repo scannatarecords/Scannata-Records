@@ -454,6 +454,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 700
   - title:
       text: Interested? Contact Us
       color: text-dark
