@@ -2,27 +2,6 @@
 title: Scannata Records - Record Label
 slug: /
 sections:
-  - type: ImageGallerySection
-    subtitle: ''
-    images: []
-    elementId: ''
-    motion: static
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: GenericSection
     title:
       text: Find yourself the label you've always been looking for
