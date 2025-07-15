@@ -6,7 +6,7 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/Street Gangster (12).png
         altText: Empathy logo
         elementId: ''
     elementId: ''
