@@ -12,7 +12,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/Adobe Express - file (19).png
       altText: Dope design preview
     colors: bg-neutral-fg-dark
     styles:
