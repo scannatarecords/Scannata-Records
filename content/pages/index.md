@@ -29,7 +29,7 @@ sections:
         textAlign: center
   - type: GenericSection
     title:
-      text: Scannata Records
+      text: ''
       color: text-dark
       type: TitleBlock
       styles:
