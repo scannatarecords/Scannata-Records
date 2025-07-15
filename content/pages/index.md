@@ -36,6 +36,7 @@ sections:
         self:
           fontWeight: 700
           textAlign: center
+          textDecoration: underline
     subtitle: Find yourself the label you've always been looking for
     text: >+
       <div style="text-align: center">Scannata Records is a record label created
