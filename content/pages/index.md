@@ -4,11 +4,7 @@ slug: /
 sections:
   - type: ImageGallerySection
     subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/Adobe Express - file (17).png
-        altText: Empathy logo
-        elementId: ''
+    images: []
     elementId: ''
     motion: static
     colors: bg-neutral-fg-dark
