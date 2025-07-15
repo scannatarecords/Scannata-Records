@@ -3,7 +3,7 @@ title: Scannata Records - Record Label
 slug: /
 sections:
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/Street Gangster (12).png
