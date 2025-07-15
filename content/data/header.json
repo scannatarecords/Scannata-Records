@@ -52,5 +52,6 @@
     ],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-neutral-fg-dark",
-    "type": "Header"
+    "type": "Header",
+    "title": ""
 }
