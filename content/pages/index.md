@@ -29,7 +29,7 @@ sections:
         textAlign: center
   - type: GenericSection
     title:
-      text: ''
+      text: Find yourself the label you've always been looking for
       color: text-dark
       type: TitleBlock
       styles:
