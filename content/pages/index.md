@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/Adobe Express - file (16).png
+        url: /images/Adobe Express - file (17).png
         altText: Empathy logo
         elementId: ''
     elementId: ''
