@@ -16,7 +16,7 @@ function Page(props) {
     if (!PageLayout) {
         throw new Error(`no page layout matching the page model: ${modelName}`);
     }
-    const title = const title = "Scannata Records - Record Label";
+    const title = "Scannata Records - Record Label";
     const metaTags = seoGenerateMetaTags(page, site);
     const metaDescription = seoGenerateMetaDescription(page, site);
     return (
