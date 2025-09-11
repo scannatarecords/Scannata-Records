@@ -18,6 +18,11 @@ sections:
         self:
           padding:
             - pb-20
+          margin:
+            - mt-72
+            - ml-72
+            - mb-72
+            - mr-72
     colors: bg-neutral-fg-dark
     styles:
       self:
