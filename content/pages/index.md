@@ -22,7 +22,7 @@ sections:
   - type: GenericSection
     title:
       text: Where sound becomes immortal.
-      color: text-neutral
+      color: text-dark
       type: TitleBlock
       styles:
         self:
