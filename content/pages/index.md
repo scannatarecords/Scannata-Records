@@ -330,7 +330,7 @@ sections:
         subtitle: Anonymous Reviewer
         text: ''
         image:
-          url: /images/image_2025-07-12_230838654.png
+          url: /images/Adobe Express - file (11).png
           altText: John Doe
           styles:
             self:
