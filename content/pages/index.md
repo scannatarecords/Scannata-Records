@@ -436,7 +436,7 @@ sections:
         subtitle: 'Producer, L.A.'
         text: ''
         image:
-          altText: 'Producer, LA.A'
+          altText: 'Producer, L.A'
           styles:
             self:
               borderRadius: full
