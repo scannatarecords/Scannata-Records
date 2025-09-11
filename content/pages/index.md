@@ -385,7 +385,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/Adobe Express - file (11).png
           altText: Maria Walters
           styles:
             self:
