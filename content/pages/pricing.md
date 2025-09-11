@@ -65,7 +65,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Contact us
-            url: /
+            url: 'https://www.instagram.com/scannata.records'
             icon: arrowRight
             iconPosition: right
             style: secondary
