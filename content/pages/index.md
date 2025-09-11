@@ -10,8 +10,8 @@ sections:
             - pb-8
           borderRadius: x-small
           margin:
-            - mr-11
-            - mt-11
-            - ml-11
-            - mb-11
+            - mr-20
+            - mt-20
+            - ml-20
+            - mb-20
 ---
