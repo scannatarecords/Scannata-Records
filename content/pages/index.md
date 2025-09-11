@@ -535,7 +535,9 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Scannata Records | Record Label
-  metaDescription: 'Scananta Records is a '
+  metaDescription: >-
+    Scannata Records is a record label created by an individual, for individuals
+    - Founded in 2023
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
