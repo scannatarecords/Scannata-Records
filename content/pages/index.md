@@ -406,7 +406,7 @@ sections:
           Scannata gave my music a platform I never thought possible — pushing
           boundaries with AI while keeping the soul of the sound intact.
         tagline: Testimonial 5
-        subtitle: anonymous
+        subtitle: Independent Artist
         text: ''
         image:
           url: /images/person-placeholder-light.png
