@@ -4,7 +4,24 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Find yourself the label you've always been looking for
+      type: TitleBlock
+      text: ''
+      color: text-dark
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/Adobe Express - file (19).png
+      altText: Dope design preview
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+  - type: GenericSection
+    title:
+      text: Scannata Dominates
       color: text-dark
       type: TitleBlock
       styles:
@@ -12,7 +29,7 @@ sections:
           fontWeight: 700
           textAlign: center
           textDecoration: underline
-    subtitle: ''
+    subtitle: Scannata Revolutionises.
     text: >+
       <div style="text-align: center">Scannata Records is a record label created
       by an individual, for individuals - Founded in 2023</div>
@@ -60,8 +77,8 @@ sections:
     subtitle: Our statistics for Scannata Records
     items:
       - type: FeaturedItem
-        title: $4M+
-        subtitle: Money to artists
+        title: '$4,4M+'
+        subtitle: Payouts to artists
         text: |+
           Estimated value of our artists - what they made since we signed them.
 
@@ -87,10 +104,10 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: '19'
+      - title: '14'
         subtitle: Artists Signed
         text: |
-          Since 2023, we have signed 19 artists.
+          Since 2023, we have signed 14 artists.
         image:
           url: /images/Adobe Express - file (11).png
           altText: Featured icon two
@@ -110,10 +127,10 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: 220%
         subtitle: Growth
         text: >
-          We grow by 200 percent quicker compared to other start-up record
+          We grow by 220 percent quicker compared to other start-up record
           labels.
         image:
           url: /images/Adobe Express - file (11).png
@@ -283,10 +300,10 @@ sections:
           “Quick and easy solution for music distribution on all platforms - 3
           weeks and it's all distributed!”
         tagline: Testimonial 1
-        subtitle: Anonymous Reviewer
+        subtitle: 'Executive Producer, Germany'
         text: ''
         image:
-          url: /images/image0.jpg
+          url: /images/Adobe Express - file (11).png
           altText: Anonymous
           styles:
             self:
@@ -313,7 +330,7 @@ sections:
         subtitle: Anonymous Reviewer
         text: ''
         image:
-          url: /images/image_2025-07-12_230838654.png
+          url: /images/Adobe Express - file (11).png
           altText: John Doe
           styles:
             self:
@@ -335,10 +352,10 @@ sections:
         type: FeaturedItem
       - title: '"If I could give 6 out of 5 starts, I would."'
         tagline: Testimonial 3
-        subtitle: Andrew Walters
+        subtitle: Independent Artist
         text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/Adobe Express - file (11).png
           altText: Maria Walters
           styles:
             self:
@@ -362,13 +379,10 @@ sections:
           “A designer knows he has achieved perfection not when there is nothing
           left to add, but when there is nothing left to take away.”
         tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: 'Walters Music Inc. , Company'
+        text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/Adobe Express - file (11).png
           altText: Maria Walters
           styles:
             self:
@@ -389,14 +403,11 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
+          Scannata gave my music a platform I never thought possible — pushing
+          boundaries with AI while keeping the soul of the sound intact.
         tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Independent Artist
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
@@ -419,22 +430,20 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
+          What Scannata Records is doing isn’t just different — it’s the next
+          step in music evolution. They’re ahead of the curve.
         tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: 'Producer, L.A.'
+        text: ''
         image:
-          altText: Jane Doe
+          altText: 'Producer, L.A.'
           styles:
             self:
               borderRadius: full
           type: ImageBlock
+          url: /images/Adobe Express - file (11).png
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -525,9 +534,12 @@ sections:
     colors: bg-neutral-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Scannata Records | Record Label
+  metaDescription: >-
+    Scannata Records is a record label created by an individual, for individuals
+    - Founded in 2023
+  socialImage: /images/Adobe Express - file (19).png
   type: Seo
+  addTitleSuffix: true
 type: PageLayout
 ---
