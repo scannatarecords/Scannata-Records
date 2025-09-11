@@ -517,9 +517,10 @@ sections:
     colors: bg-neutral-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Scannata Records
+  metaDescription: >-
+    Scannata Records is a record label created by an individual, for individuals
+    - Founded in 2023
   type: Seo
 type: PageLayout
 ---
