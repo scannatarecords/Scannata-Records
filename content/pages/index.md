@@ -17,10 +17,10 @@ sections:
       styles:
         self:
           margin:
-            - mt-28
-            - ml-28
-            - mb-28
-            - mr-28
+            - mt-20
+            - ml-20
+            - mb-20
+            - mr-20
     colors: bg-neutral-fg-dark
     styles:
       self:
