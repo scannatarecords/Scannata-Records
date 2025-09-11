@@ -21,7 +21,7 @@ sections:
         flexDirection: row-reverse
   - type: GenericSection
     title:
-      text: Find yourself the label you've always been looking for
+      text: Needa Label?
       color: text-dark
       type: TitleBlock
       styles:
