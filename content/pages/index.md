@@ -441,6 +441,7 @@ sections:
             self:
               borderRadius: full
           type: ImageBlock
+          url: /images/Adobe Express - file (11).png
         actions: []
         colors: bg-neutral-fg-dark
         styles:
