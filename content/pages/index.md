@@ -12,7 +12,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Adobe Express - file (19).png
+      url: /images/Adobe Express - file (17).png
       altText: Dope design preview
     colors: bg-neutral-fg-dark
     styles:
