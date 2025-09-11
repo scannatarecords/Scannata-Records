@@ -303,7 +303,7 @@ sections:
         subtitle: Anonymous Reviewer
         text: ''
         image:
-          url: /images/image0.jpg
+          url: /images/Adobe Express - file.png
           altText: Anonymous
           styles:
             self:
