@@ -300,7 +300,7 @@ sections:
           “Quick and easy solution for music distribution on all platforms - 3
           weeks and it's all distributed!”
         tagline: Testimonial 1
-        subtitle: 'Executive Producer, '
+        subtitle: Anonymous Revie
         text: ''
         image:
           url: /images/Adobe Express - file (11).png
