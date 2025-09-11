@@ -540,5 +540,6 @@ seo:
     - Founded in 2023
   socialImage: /images/main-hero.jpg
   type: Seo
+  addTitleSuffix: true
 type: PageLayout
 ---
