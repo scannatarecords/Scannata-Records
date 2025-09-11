@@ -29,7 +29,7 @@ sections:
           fontWeight: 700
           textAlign: center
           textDecoration: underline
-    subtitle: ''
+    subtitle: S
     text: >+
       <div style="text-align: center">Scannata Records is a record label created
       by an individual, for individuals - Founded in 2023</div>
