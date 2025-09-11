@@ -23,10 +23,10 @@ sections:
             - pb-4
           borderRadius: x-small
           margin:
-            - mr-10
-            - mt-10
-            - ml-10
-            - mb-10
+            - mr-6
+            - mt-6
+            - ml-6
+            - mb-6
     colors: bg-neutral-fg-dark
     styles:
       self:
