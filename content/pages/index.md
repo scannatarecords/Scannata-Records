@@ -16,17 +16,11 @@ sections:
       altText: Dope design preview
       styles:
         self:
-          padding:
-            - pr-5
-            - pt-5
-            - pl-5
-            - pb-5
-          borderRadius: x-small
           margin:
-            - mr-20
-            - mt-20
-            - ml-20
-            - mb-20
+            - mt-28
+            - ml-28
+            - mb-28
+            - mr-28
     colors: bg-neutral-fg-dark
     styles:
       self:
