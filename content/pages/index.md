@@ -434,10 +434,7 @@ sections:
           step in music evolution. They’re ahead of the curve.
         tagline: Testimonial 6
         subtitle: 'Producer, L.A.'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           altText: Jane Doe
           styles:
