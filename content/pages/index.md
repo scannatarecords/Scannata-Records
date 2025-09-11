@@ -535,7 +535,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Scannata Records | Record Label
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: 'Scananta Records is a '
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
