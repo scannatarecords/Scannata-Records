@@ -436,7 +436,7 @@ sections:
         subtitle: 'Producer, L.A.'
         text: ''
         image:
-          altText: Jane Doe
+          altText: 'Producer, LA'
           styles:
             self:
               borderRadius: full
