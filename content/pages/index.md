@@ -430,8 +430,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
+          What Scannata Records is doing isn’t just different — it’s the next
+          step in music evolution. They’re ahead of the curve.
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
