@@ -19,6 +19,8 @@ sections:
           padding:
             - pr-0
           borderRadius: x-small
+          margin:
+            - mr-28
     colors: bg-neutral-fg-dark
     styles:
       self:
