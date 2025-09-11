@@ -16,11 +16,8 @@ sections:
       altText: Dope design preview
       styles:
         self:
-          margin:
-            - mt-72
-            - ml-72
-            - mb-72
-            - mr-72
+          padding:
+            - pb-20
     colors: bg-neutral-fg-dark
     styles:
       self:
