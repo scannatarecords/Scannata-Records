@@ -130,7 +130,7 @@ sections:
       - title: 220%
         subtitle: Growth
         text: >
-          We grow by 200 percent quicker compared to other start-up record
+          We grow by 220 percent quicker compared to other start-up record
           labels.
         image:
           url: /images/Adobe Express - file (11).png
