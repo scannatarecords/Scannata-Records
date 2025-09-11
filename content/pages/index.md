@@ -4,23 +4,6 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/Adobe Express - file (19).png
-      altText: Dope design preview
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-  - type: GenericSection
-    title:
       text: Scannata Dominates
       color: text-dark
       type: TitleBlock
@@ -534,12 +517,9 @@ sections:
     colors: bg-neutral-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Scannata Records | Record Label
-  metaDescription: >-
-    Scannata Records is a record label created by an individual, for individuals
-    Founded in 2023
-  socialImage: /images/Adobe Express - file (19).png
+  metaTitle: Home - Demo site
+  metaDescription: This demo site is built with Netlify Create.
+  socialImage: /images/main-hero.jpg
   type: Seo
-  addTitleSuffix: true
 type: PageLayout
 ---
