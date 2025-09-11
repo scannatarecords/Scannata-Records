@@ -21,7 +21,7 @@ sections:
         flexDirection: row-reverse
   - type: GenericSection
     title:
-      text: Where sound becomes immortal.
+      text: Eternal Noise
       color: text-dark
       type: TitleBlock
       styles:
