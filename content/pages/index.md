@@ -14,6 +14,13 @@ sections:
       type: ImageBlock
       url: /images/Adobe Express - file (17).png
       altText: Dope design preview
+      styles:
+        self:
+          padding:
+            - pt-9
+            - pl-9
+            - pb-9
+            - pr-9
     colors: bg-neutral-fg-dark
     styles:
       self:
