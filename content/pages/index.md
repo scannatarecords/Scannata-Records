@@ -17,15 +17,7 @@ sections:
       styles:
         self:
           padding:
-            - pt-0
-            - pl-0
-            - pb-0
-            - pr-0
-          margin:
-            - mt-0
-            - ml-0
-            - mb-0
-            - mr-0
+            - pr-8
     colors: bg-neutral-fg-dark
     styles:
       self:
