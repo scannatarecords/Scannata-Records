@@ -77,7 +77,7 @@ sections:
     subtitle: Our statistics for Scannata Records
     items:
       - type: FeaturedItem
-        title: $4M+
+        title: '$4,4M+'
         subtitle: Money to artists
         text: |+
           Estimated value of our artists - what they made since we signed them.
