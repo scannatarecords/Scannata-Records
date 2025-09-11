@@ -21,7 +21,7 @@ sections:
         flexDirection: row-reverse
   - type: GenericSection
     title:
-      text: ''
+      text: Scannata
       color: text-dark
       type: TitleBlock
       styles:
