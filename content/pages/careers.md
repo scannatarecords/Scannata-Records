@@ -146,7 +146,7 @@ sections:
         type: FeaturedItem
     actions:
       - label: Apply now
-        url: /
+        url: scannata.carrd.co
         icon: arrowRight
         iconPosition: right
         style: secondary
