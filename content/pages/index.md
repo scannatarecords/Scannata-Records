@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Scannata Dominates
+      text: 'Scannata '
       color: text-dark
       type: TitleBlock
       styles:
