@@ -107,7 +107,7 @@ sections:
       - title: '14'
         subtitle: Artists Signed
         text: |
-          Since 2023, we have signed 19 artists.
+          Since 2023, we have signed 14 artists.
         image:
           url: /images/Adobe Express - file (11).png
           altText: Featured icon two
