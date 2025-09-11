@@ -17,10 +17,10 @@ sections:
       styles:
         self:
           padding:
-            - pr-4
-            - pt-4
-            - pl-4
-            - pb-4
+            - pr-1
+            - pt-1
+            - pl-1
+            - pb-1
           borderRadius: x-small
           margin:
             - mr-6
