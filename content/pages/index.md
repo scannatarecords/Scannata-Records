@@ -21,7 +21,7 @@ sections:
         flexDirection: row-reverse
   - type: GenericSection
     title:
-      text: Scannata Revolutionises
+      text: Scannata Empowers
       color: text-dark
       type: TitleBlock
       styles:
