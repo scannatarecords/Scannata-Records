@@ -352,7 +352,7 @@ sections:
         type: FeaturedItem
       - title: '"If I could give 6 out of 5 starts, I would."'
         tagline: Testimonial 3
-        subtitle: Anonymous Reviewer
+        subtitle: Independent Artist
         text: ''
         image:
           url: /images/Adobe Express - file (11).png
