@@ -540,6 +540,6 @@ seo:
     - Founded in 2023
   socialImage: /images/Adobe Express - file (19).png
   type: Seo
-  addTitleSuffix: true
+  addTitleSuffix: false
 type: PageLayout
 ---
