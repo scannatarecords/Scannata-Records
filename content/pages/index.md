@@ -104,7 +104,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: '19'
+      - title: '22'
         subtitle: Artists Signed
         text: |
           Since 2023, we have signed 19 artists.
