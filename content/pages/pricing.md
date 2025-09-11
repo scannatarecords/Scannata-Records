@@ -25,7 +25,7 @@ sections:
           altText: Scannata
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Purchase
             url: 'https://paypal.me/copycaptain?country.x=BE&locale.x=en_US'
             icon: arrowRight
             iconPosition: right
