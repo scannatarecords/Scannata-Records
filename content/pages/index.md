@@ -403,8 +403,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
+          Scannata gave my music a platform I never thought possible — pushing
+          boundaries with AI while keeping the soul of the sound intact.
         tagline: Testimonial 5
         subtitle: anonymous
         text: ''
