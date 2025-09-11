@@ -20,7 +20,7 @@ sections:
             - pr-0
           borderRadius: x-small
           margin:
-            - mr-28
+            - mr-3
     colors: bg-neutral-fg-dark
     styles:
       self:
