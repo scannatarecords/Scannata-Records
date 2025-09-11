@@ -17,10 +17,10 @@ sections:
       styles:
         self:
           margin:
-            - mt-36
-            - ml-36
-            - mb-36
-            - mr-36
+            - mt-72
+            - ml-72
+            - mb-72
+            - mr-72
     colors: bg-neutral-fg-dark
     styles:
       self:
