@@ -433,7 +433,7 @@ sections:
           What Scannata Records is doing isn’t just different — it’s the next
           step in music evolution. They’re ahead of the curve.
         tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
+        subtitle: 'Producer, L.A.'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
