@@ -21,7 +21,7 @@ sections:
         flexDirection: row-reverse
   - type: GenericSection
     title:
-      text: Eternal Noise
+      text: Scannata Revolutionises
       color: text-dark
       type: TitleBlock
       styles:
