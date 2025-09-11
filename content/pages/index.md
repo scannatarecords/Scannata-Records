@@ -127,7 +127,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: 220%
         subtitle: Growth
         text: >
           We grow by 200 percent quicker compared to other start-up record
