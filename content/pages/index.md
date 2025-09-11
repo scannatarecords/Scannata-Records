@@ -4,32 +4,6 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/Adobe Express - file (19).png
-      altText: Dope design preview
-      styles:
-        self:
-          padding:
-            - pb-20
-          margin:
-            - mt-72
-            - ml-72
-            - mb-72
-            - mr-72
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-  - type: GenericSection
-    title:
       text: Scannata Dominates
       color: text-dark
       type: TitleBlock
