@@ -9,7 +9,7 @@
             }
         },
         "type": "ImageBlock",
-        "url": "/images/Adobe Express - file (18).png"
+        "url": "/images/Adobe Express - file (14).png"
     },
     "primaryLinks": [
         {
@@ -34,7 +34,7 @@
         {
             "label": "Sign up",
             "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
+            "url": "https://scannata.carrd.co",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -42,7 +42,7 @@
         },
         {
             "label": "Log in",
-            "url": "/",
+            "url": "https://scannata.carrd.co",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
