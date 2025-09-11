@@ -17,7 +17,7 @@ sections:
       styles:
         self:
           padding:
-            - pr-8
+            - pr-12
     colors: bg-neutral-fg-dark
     styles:
       self:
