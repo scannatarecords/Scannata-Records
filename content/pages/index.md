@@ -451,7 +451,7 @@ sections:
         textAlign: center
         fontWeight: 700
   - title:
-      text: Interested? Contact Us
+      text: Submit your demo!
       color: text-dark
       type: TitleBlock
       styles:
