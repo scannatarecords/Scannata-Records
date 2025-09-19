@@ -61,8 +61,7 @@ sections:
       styles:
         self:
           textAlign: center
-          fontWeight: 700
-          textDecoration: underline
+          fontWeight: 500
     subtitle: ''
     items:
       - type: FeaturedItem
@@ -160,7 +159,7 @@ sections:
         style: secondary
         elementId: ''
     elementId: ''
-    variant: toggle-list
+    variant: small-list
     colors: bg-neutral-fg-dark
     styles:
       self:
