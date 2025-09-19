@@ -183,7 +183,7 @@ sections:
       subtitle:
         textAlign: center
   - type: DividerSection
-    title: Divider
+    title: Statistics
     elementId: ''
     colors: bg-light-fg-dark
     styles:
