@@ -56,7 +56,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: What Scannata Does
+      text: 'Scannata, why?'
       color: text-dark
       styles:
         self:
