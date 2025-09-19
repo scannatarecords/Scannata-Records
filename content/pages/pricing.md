@@ -51,7 +51,7 @@ sections:
           accusantium doloremque.
         features:
           - All Platforms Account Creation
-          - Feature two
+          - Social Media Management
           - Feature three
           - Feature four
         image:
