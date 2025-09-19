@@ -139,7 +139,7 @@ sections:
         text: |
           Visual storytelling, branding, and content that elevate the music.
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
