@@ -70,14 +70,6 @@ sections:
 
           We work closely with artists to shape their sound, vision, and career.
 
-        image:
-          type: ImageBlock
-          url: /images/icon1.svg
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
