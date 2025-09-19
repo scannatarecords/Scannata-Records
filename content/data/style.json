@@ -1,7 +1,7 @@
 {
     "light": "#000000",
     "dark": "#101010",
-    "neutral": "#ffffff",
+    "neutral": "#000000",
     "neutralAlt": "#ffffff",
     "primary": "#000000",
     "fontBody": "sans",
