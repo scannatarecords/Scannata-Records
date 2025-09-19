@@ -43,7 +43,7 @@ sections:
         type: PricingPlan
       - type: PricingPlan
         title: Individual Music Distribution
-        price: Free
+        price: ''
         details: One-Time Payment
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
