@@ -160,7 +160,7 @@ sections:
         style: secondary
         elementId: ''
     elementId: ''
-    variant: big-list
+    variant: toggle-list
     colors: bg-neutral-fg-dark
     styles:
       self:
