@@ -154,7 +154,7 @@ sections:
         label: Get started
         altText: ''
         url: /
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
