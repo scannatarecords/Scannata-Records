@@ -62,7 +62,6 @@ sections:
         self:
           textAlign: center
           fontWeight: 700
-          textDecoration: underline
     subtitle: ''
     items:
       - type: FeaturedItem
