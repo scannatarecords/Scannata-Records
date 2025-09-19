@@ -606,7 +606,7 @@ sections:
         textAlign: center
         fontWeight: 700
   - title:
-      text: 'Artist? bookings, or partnerships'
+      text: Become Part of the Scannata Family
       color: text-dark
       type: TitleBlock
       styles:
