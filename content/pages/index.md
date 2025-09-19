@@ -12,7 +12,7 @@ sections:
           fontWeight: 700
           textAlign: center
           textDecoration: underline
-    subtitle: Scannata Revolutionises.
+    subtitle: Independent. Unfiltered. Unapologetic.
     text: >+
       <div style="text-align: center">
 
