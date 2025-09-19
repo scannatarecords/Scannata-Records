@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Scannata Empowers
+      text: Scannata
       color: text-dark
       type: TitleBlock
       styles:
@@ -12,10 +12,15 @@ sections:
           fontWeight: 700
           textAlign: center
           textDecoration: underline
-    subtitle: Scannata Revolutionises.
+    subtitle: Independent by nature. United by sound.
     text: >+
-      <div style="text-align: center">Scannata Records is a record label created
-      by an individual, for individuals - Founded in 2023</div>
+      <div style="text-align: center">Founded in 2023, Scannata Records is a
+      forward-thinking independent label dedicated toamplifying authentic voices
+      across genres. We champion originality, nurture emerging talent, and
+      deliver music that resonates beyond trends.
+
+
+      </div>
 
     actions:
       - label: Get started
@@ -48,6 +53,108 @@ sections:
       subtitle:
         textAlign: center
         textDecoration: underline
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: What We Do
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+          fontWeight: 700
+          textDecoration: underline
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: Artist Development
+        subtitle: ''
+        text: |+
+
+          We work closely with artists to shape their sound, vision, and career.
+
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: Production & Distribution
+        subtitle: ''
+        text: |+
+
+          From studio to stream, we handle every step with precision.
+
+        image:
+          type: ImageBlock
+          altText: Featured icon two
+          elementId: ''
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+      - type: FeaturedItem
+        title: Global Reach
+        subtitle: ''
+        text: >+
+
+          Strategic partnerships and digital platforms to connect artists with
+          audiences worldwide.
+
+        image:
+          type: ImageBlock
+          altText: Featured icon three
+          elementId: ''
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    elementId: ''
+    variant: toggle-list
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       text: Statistics
@@ -449,7 +556,7 @@ sections:
         textAlign: center
         fontWeight: 700
   - title:
-      text: Interested? Contact Us
+      text: Submit your demo!
       color: text-dark
       type: TitleBlock
       styles:
