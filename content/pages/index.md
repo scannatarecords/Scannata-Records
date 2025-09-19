@@ -137,7 +137,7 @@ sections:
         tagline: ''
         subtitle: 'Visual storytelling, branding, and content that elevate the music.'
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Visual storytelling, branding, and content that elevate the music.
         actions: []
         colors: bg-light-fg-dark
         styles:
