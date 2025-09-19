@@ -169,7 +169,7 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-    elementId: ''
+    elementId: '1'
     variant: small-list
     colors: bg-neutral-fg-dark
     styles:
