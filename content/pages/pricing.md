@@ -12,7 +12,7 @@ sections:
     subtitle: Scannata Records Pricing Plans
     plans:
       - title: Individual Music Distribution
-        price: '$19,99'
+        price: '$39,99'
         details: Per Month
         description: >
           We provide Spotify account creation and seamless music distribution
