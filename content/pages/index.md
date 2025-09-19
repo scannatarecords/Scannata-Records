@@ -23,7 +23,7 @@ sections:
       </div>
 
     actions:
-      - label: Get started
+      - label: Next
         altText: ''
         url: '#1'
         showIcon: false
