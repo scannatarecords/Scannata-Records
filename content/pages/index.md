@@ -23,7 +23,7 @@ sections:
       </div>
 
     actions:
-      - label: Get started
+      - label: Continue
         altText: ''
         url: '#1'
         showIcon: false
@@ -606,7 +606,7 @@ sections:
         textAlign: center
         fontWeight: 700
   - title:
-      text: 'Press, bookings, or partnerships'
+      text: Become Part of the Family
       color: text-dark
       type: TitleBlock
       styles:

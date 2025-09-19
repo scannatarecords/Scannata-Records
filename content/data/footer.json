@@ -34,8 +34,8 @@
     ],
     "legalLinks": [
         {
-            "label": "Terms",
-            "url": "/",
+            "label": "Terms & Service",
+            "url": "scannatatermsservice.carrd.co",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
