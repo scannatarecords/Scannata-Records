@@ -76,7 +76,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Artist Development
+        title: Artist Mentorship
         subtitle: ''
         text: |+
 
@@ -393,7 +393,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Distributed on →
+      text: Distributed on
       color: text-dark
       type: TitleBlock
       styles:
