@@ -44,7 +44,7 @@ sections:
       - type: PricingPlan
         title: Individual Music Distribution
         price: Free
-        details: No credit card required
+        details: One Time Paypmentµ
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
