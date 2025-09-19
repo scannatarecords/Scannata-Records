@@ -66,10 +66,10 @@ sections:
       - type: FeaturedItem
         title: Artist Development
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+
+          We work closely with artists to shape their sound, vision, and career.
+
         image:
           type: ImageBlock
           url: /images/icon1.svg
