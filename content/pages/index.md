@@ -25,7 +25,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: '#Includes'
+        url: '#1'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -163,7 +163,7 @@ sections:
       - type: Button
         label: Statistics
         altText: ''
-        url: '#statistics'
+        url: '#2'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -298,7 +298,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-    elementId: ''
+    elementId: '2'
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
