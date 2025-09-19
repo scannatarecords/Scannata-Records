@@ -156,7 +156,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            borderColor: border-dark
+            borderColor: border-neutral
     actions:
       - type: Button
         label: Get started
