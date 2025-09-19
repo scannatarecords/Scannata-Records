@@ -14,8 +14,10 @@ sections:
           textDecoration: underline
     subtitle: Scannata Revolutionises.
     text: >+
-      <div style="text-align: center">Scannata Records is a record label created
-      by an individual, for individuals - Founded in 2023</div>
+      <div style="text-align: center">
+
+      A label for the misfits, the dreamers, the ones who don’t fit the
+      mold.</div>
 
     actions:
       - label: Get started
