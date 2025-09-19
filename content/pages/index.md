@@ -139,7 +139,7 @@ sections:
         text: |
           Follow the tutorial to build your first Netlify Create site.
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
