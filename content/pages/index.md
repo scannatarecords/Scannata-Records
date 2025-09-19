@@ -110,10 +110,11 @@ sections:
       - type: FeaturedItem
         title: Global Reach
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Strategic partnerships and digital platforms to connect artists with
+          audiences worldwide.
+
         image:
           type: ImageBlock
           url: /images/icon3.svg
