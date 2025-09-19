@@ -86,10 +86,10 @@ sections:
       - type: FeaturedItem
         title: Production & Distribution
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+
+          From studio to stream, we handle every step with precision.
+
         image:
           type: ImageBlock
           url: /images/icon2.svg
