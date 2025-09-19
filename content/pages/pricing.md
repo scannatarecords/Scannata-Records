@@ -46,9 +46,8 @@ sections:
         title: Individual Music Distribution
         price: '$1499,99'
         details: One-Time Payment
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          One-Time Payment for the Individual Plan with Business Features.
         features:
           - All Platforms Account Creation
           - Social Media Management
