@@ -54,7 +54,7 @@ sections:
         textAlign: center
         textDecoration: underline
   - type: DividerSection
-    title: Divider
+    title: Includes
     elementId: ''
     colors: bg-neutral-fg-dark
     styles:
