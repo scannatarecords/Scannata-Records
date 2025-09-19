@@ -516,7 +516,7 @@ sections:
       label: Contact Scannata Records
       color: text-primary
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     type: GenericSection
 seo:
   metaTitle: Scannata Records
