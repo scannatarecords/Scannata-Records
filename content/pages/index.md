@@ -135,7 +135,7 @@ sections:
       - type: FeaturedItem
         title: Creative Direction
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: 'Visual storytelling, branding, and content that elevate the music.'
         text: |
           Follow the tutorial to build your first Netlify Create site.
         actions: []
