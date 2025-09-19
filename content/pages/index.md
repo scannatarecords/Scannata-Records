@@ -369,6 +369,7 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+    elementId: '3'
   - type: GenericSection
     title:
       text: Distributed on ALL platforms!
