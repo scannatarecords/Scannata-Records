@@ -56,7 +56,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: what differs us?
+      text: Scannata Includes
       color: text-dark
       styles:
         self:
