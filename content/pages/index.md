@@ -55,7 +55,7 @@ sections:
         textDecoration: underline
   - type: DividerSection
     title: Includes
-    elementId: ''
+    elementId: '1'
     colors: bg-neutral-fg-dark
     styles:
       self:
