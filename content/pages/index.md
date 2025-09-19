@@ -169,7 +169,7 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-    elementId: ''
+    elementId: '1'
     variant: small-list
     colors: bg-neutral-fg-dark
     styles:
@@ -291,7 +291,7 @@ sections:
     actions:
       - label: Continue
         altText: ''
-        url: /
+        url: '#3'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -369,6 +369,7 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+    elementId: '3'
   - type: GenericSection
     title:
       text: Distributed on ALL platforms!
