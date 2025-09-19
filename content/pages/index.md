@@ -194,7 +194,7 @@ sections:
           - pb-3
           - pr-3
   - type: DividerSection
-    title: Divider
+    title: Statistics
     elementId: ''
     colors: bg-light-fg-dark
     styles:
