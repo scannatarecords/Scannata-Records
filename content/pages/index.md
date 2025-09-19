@@ -606,7 +606,7 @@ sections:
         textAlign: center
         fontWeight: 700
   - title:
-      text: 'Press, bookings, or partnerships'
+      text: 'Artist? bookings, or partnerships'
       color: text-dark
       type: TitleBlock
       styles:
