@@ -43,7 +43,7 @@
         },
         {
             "label": "Privacy",
-            "url": "/",
+            "url": "https://scannataprivacy.carrd.co/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
