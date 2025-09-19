@@ -56,12 +56,12 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: What We Do
+      text: Scannata Includes
       color: text-dark
       styles:
         self:
           textAlign: center
-          fontWeight: 500
+          fontWeight: 700
     subtitle: ''
     items:
       - type: FeaturedItem
@@ -150,9 +150,9 @@ sections:
             borderColor: border-dark
     actions:
       - type: Button
-        label: Get started
+        label: Statistics
         altText: ''
-        url: /
+        url: '#statistics'
         showIcon: false
         icon: arrowRight
         iconPosition: right
