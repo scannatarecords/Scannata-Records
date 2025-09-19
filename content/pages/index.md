@@ -573,7 +573,7 @@ sections:
         textAlign: center
         fontWeight: 700
   - title:
-      text: 'For press, bookings, or partnerships:'
+      text: 'For press, bookings, or partnerships'
       color: text-dark
       type: TitleBlock
       styles:
