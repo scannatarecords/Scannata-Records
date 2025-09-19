@@ -136,8 +136,7 @@ sections:
         title: Creative Direction
         tagline: ''
         subtitle: 'Visual storytelling, branding, and content that elevate the music.'
-        text: |
-          Visual storytelling, branding, and content that elevate the music.
+        text: ''
         actions: []
         colors: bg-neutral-fg-dark
         styles:
