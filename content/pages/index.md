@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Scannata
+      text: Scannata Records
       color: text-dark
       type: TitleBlock
       styles:
@@ -132,6 +132,23 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+      - type: FeaturedItem
+        title: Creative Direction
+        tagline: ''
+        subtitle: 'Visual storytelling, branding, and content that elevate the music.'
+        text: ''
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            borderColor: border-dark
     actions:
       - type: Button
         label: Get started
@@ -140,7 +157,7 @@ sections:
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
     elementId: ''
     variant: toggle-list
@@ -556,7 +573,7 @@ sections:
         textAlign: center
         fontWeight: 700
   - title:
-      text: Submit your demo!
+      text: 'Press, bookings, or partnerships'
       color: text-dark
       type: TitleBlock
       styles:
