@@ -296,7 +296,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
-        elementId: '3'
+        elementId: ''
         type: Button
     elementId: '2'
     variant: three-col-grid
