@@ -291,7 +291,7 @@ sections:
     actions:
       - label: Continue
         altText: ''
-        url: /
+        url: '#3'
         showIcon: false
         icon: arrowRight
         iconPosition: right
