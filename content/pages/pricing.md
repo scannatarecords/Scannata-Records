@@ -53,7 +53,7 @@ sections:
           - All Platforms Account Creation
           - Social Media Management
           - Collaboration With Various Artists
-          - Feature four
+          - Distribution on All Platforms
         image:
           type: ImageBlock
           url: /images/Adobe Express - file (19).png
