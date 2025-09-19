@@ -25,7 +25,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: Includes
+        url: '#Includes'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -182,6 +182,17 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: DividerSection
+    title: Statistics
+    elementId: ''
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: DividerSection
     title: Statistics
     elementId: ''
