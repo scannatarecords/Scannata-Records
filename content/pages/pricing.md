@@ -43,7 +43,7 @@ sections:
         type: PricingPlan
       - type: PricingPlan
         title: Individual Music Distribution
-        price: ''
+        price: '$1499,99'
         details: One-Time Payment
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
