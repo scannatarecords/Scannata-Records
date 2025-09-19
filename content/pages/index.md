@@ -65,7 +65,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Artist Development
-        subtitle: Numbers Done
+        subtitle: ''
         text: |+
 
           We work closely with artists to shape their sound, vision, and career.
