@@ -25,7 +25,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: Includes
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -53,6 +53,17 @@ sections:
       subtitle:
         textAlign: center
         textDecoration: underline
+  - type: DividerSection
+    title: Includes
+    elementId: ''
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
