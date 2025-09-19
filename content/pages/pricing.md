@@ -20,7 +20,7 @@ sections:
         features:
           - Spotify Account Creation
           - Distribute Music on Various Platforms
-          - ''
+          - Social Media Management
         image:
           url: /images/Street Gangster (12).png
           altText: Scannata
