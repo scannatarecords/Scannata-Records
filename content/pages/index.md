@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Scannata
+      text: Scannata Records
       color: text-dark
       type: TitleBlock
       styles:
