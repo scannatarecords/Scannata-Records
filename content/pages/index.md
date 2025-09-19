@@ -160,7 +160,7 @@ sections:
         style: primary
         elementId: ''
     elementId: ''
-    variant: small-list
+    variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
