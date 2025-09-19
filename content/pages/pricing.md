@@ -73,7 +73,7 @@ sections:
               - pl-6
               - pr-6
             borderRadius: large
-      - title: Premium Music Distribution
+      - title: Business Music Distribution
         price: Inquire
         details: >-
           Give us a call, or email us to see what your needs are, and we'll give
