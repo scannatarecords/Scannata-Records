@@ -185,7 +185,7 @@ sections:
   - type: DividerSection
     title: Statistics
     elementId: ''
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
