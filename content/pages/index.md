@@ -14,10 +14,13 @@ sections:
           textDecoration: underline
     subtitle: Independent. Unfiltered. Unapologetic.
     text: >+
-      <div style="text-align: center">
+      <div style="text-align: center">Founded in 2023, Scannata Records is a
+      forward-thinking independent label dedicated toamplifying authentic voices
+      across genres. We champion originality, nurture emerging talent, and
+      deliver music that resonates beyond trends.
 
-      A label for the misfits, the dreamers, the ones who don’t fit the
-      mold.</div>
+
+      </div>
 
     actions:
       - label: Get started
