@@ -25,7 +25,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: Includes
+        url: '#Includes'
         showIcon: false
         icon: arrowRight
         iconPosition: right
