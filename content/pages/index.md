@@ -150,7 +150,7 @@ sections:
             borderColor: border-dark
     actions:
       - type: Button
-        label: Get started
+        label: Statistics
         altText: ''
         url: /
         showIcon: false
