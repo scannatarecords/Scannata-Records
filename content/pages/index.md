@@ -134,7 +134,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Creative Direction
-        tagline: This is the tagline
+        tagline: ''
         subtitle: 'Visual storytelling, branding, and content that elevate the music.'
         text: |
           Follow the tutorial to build your first Netlify Create site.
