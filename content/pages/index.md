@@ -76,7 +76,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Artist Development
+        title: Artist Mentorship
         subtitle: ''
         text: |+
 
