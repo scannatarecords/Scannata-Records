@@ -54,7 +54,7 @@ sections:
           - Social Media Management
           - Collaboration With Various Artists
           - Distribution on All Platforms
-          - ''
+          - + Sample Beats Without Copyright
         image:
           type: ImageBlock
           url: /images/Adobe Express - file (19).png
