@@ -606,7 +606,7 @@ sections:
         textAlign: center
         fontWeight: 700
   - title:
-      text: Become Part of the Scannata Family
+      text: Become Part of the Family
       color: text-dark
       type: TitleBlock
       styles:
