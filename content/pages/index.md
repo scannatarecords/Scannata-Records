@@ -163,7 +163,7 @@ sections:
       - type: Button
         label: Statistics
         altText: ''
-        url: statistics
+        url: '#statistics'
         showIcon: false
         icon: arrowRight
         iconPosition: right
