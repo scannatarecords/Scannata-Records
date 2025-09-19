@@ -42,7 +42,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - type: PricingPlan
-        title: Developers
+        title: Individual Music Distribution
         price: Free
         details: No credit card required
         description: >-
