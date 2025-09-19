@@ -87,6 +87,7 @@ sections:
         features:
           - All Platforms Account Creation
           - Social Media Management
+          - ''
           - Collaboration With Various Artists
           - Distribution on All Platforms
           - Real Life Concert Organisers
