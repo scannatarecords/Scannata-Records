@@ -61,7 +61,7 @@ sections:
       styles:
         self:
           textAlign: center
-          fontWeight: 700
+          fontWeight: 500
     subtitle: ''
     items:
       - type: FeaturedItem
