@@ -12,7 +12,7 @@ sections:
           fontWeight: 700
           textAlign: center
           textDecoration: underline
-    subtitle: Independent. Unfiltered. Unapologetic.
+    subtitle: Independent by nature. United by sound.
     text: >+
       <div style="text-align: center">Founded in 2023, Scannata Records is a
       forward-thinking independent label dedicated toamplifying authentic voices
