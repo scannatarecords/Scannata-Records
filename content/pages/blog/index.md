@@ -35,6 +35,7 @@ seo:
   metaDescription: 'Scannata Records Q&A, Questions and Answers'
   socialImage: /images/Adobe Express - file (19).png
   type: Seo
+  addTitleSuffix: true
 type: PostFeedLayout
 bottomSections: []
 postFeed:
