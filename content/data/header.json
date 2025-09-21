@@ -33,7 +33,7 @@
             "type": "Link",
             "label": "Blog",
             "altText": "",
-            "url": "scannata.com/blog/",
+            "url": "/blog",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
