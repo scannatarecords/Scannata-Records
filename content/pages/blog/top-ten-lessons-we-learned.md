@@ -18,6 +18,7 @@ seo:
   metaDescription: 'Q&A, Questions and Answers'
   socialImage: /images/Adobe Express - file (19).png
   type: Seo
+  addTitleSuffix: true
 colors: bg-neutral-fg-dark
 styles:
   self:
