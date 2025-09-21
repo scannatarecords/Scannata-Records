@@ -16,7 +16,7 @@ isFeatured: true
 seo:
   metaTitle: Q&A Scannata Records
   metaDescription: 'Q&A, Questions and Answers'
-  socialImage: /images/abstract-feature2.svg
+  socialImage: /images/Adobe Express - file (19).png
   type: Seo
 colors: bg-neutral-fg-dark
 styles:
