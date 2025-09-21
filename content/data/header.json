@@ -61,7 +61,7 @@
             "showIcon": true
         }
     ],
-    "variant": "logo-centered-primary-nav-left",
+    "variant": "logo-left-primary-nav-left",
     "colors": "bg-neutral-fg-dark",
     "type": "Header",
     "title": ""
