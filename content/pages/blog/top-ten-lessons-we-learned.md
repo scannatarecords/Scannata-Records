@@ -3,7 +3,7 @@ title: >-
   In this 'blog' you can find many asked questions about Scannata Records and
   the answers to them.
 slug: top-ten-lessons-we-learned
-date: '2025-01-22'
+date: ''
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
