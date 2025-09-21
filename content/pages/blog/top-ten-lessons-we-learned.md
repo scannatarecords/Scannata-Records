@@ -1,5 +1,7 @@
 ---
-title: The Top Ten Lessons We’ve Learned Since Our Initial Launch
+title: >-
+  In this 'blog' you can find many asked questions about Scannata Records and
+  the answers to them.
 slug: top-ten-lessons-we-learned
 date: '2025-01-02'
 excerpt: >-
