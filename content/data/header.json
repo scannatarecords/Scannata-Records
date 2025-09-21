@@ -32,7 +32,7 @@
         {
             "type": "SubNav",
             "label": "Dropdown",
-            "altText": "Dropdown",
+            "altText": "",
             "links": [
                 {
                     "type": "Link",
