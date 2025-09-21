@@ -60,8 +60,8 @@ sections:
           altText: Pricing plan 1
         actions:
           - type: Button
-            label: Try for free
-            url: /
+            label: Purchase
+            url: 'https://paypal.me/copycaptain?country.x=BE&locale.x=en_US'
             icon: arrowRight
             iconPosition: right
             style: secondary
