@@ -33,7 +33,7 @@ styles:
 seo:
   metaTitle: Q&A - Scannata Records
   metaDescription: 'Scannata Records Q&A, Questions and Answers'
-  socialImage: /images/img-placeholder.svg
+  socialImage: /images/Adobe Express - file (19).png
   type: Seo
 type: PostFeedLayout
 bottomSections: []
