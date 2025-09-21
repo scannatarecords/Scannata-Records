@@ -43,7 +43,7 @@ postFeed:
   type: PagedPostsSection
   title: null
   subtitle: null
-  showThumbnail: false
+  showThumbnail: true
   showExcerpt: false
   showDate: false
   showAuthor: false
