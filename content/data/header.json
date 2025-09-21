@@ -31,7 +31,7 @@
         },
         {
             "type": "Link",
-            "label": "Q&A",
+            "label": "Q&A/Blog",
             "altText": "",
             "url": "/blog",
             "showIcon": false,
