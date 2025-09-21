@@ -8,6 +8,9 @@ topSections:
       text: Q&A
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     subtitle: Questions and Answers
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
@@ -24,7 +27,9 @@ topSections:
           - pb-0
           - pl-4
           - pr-4
-        justifyContent: flex-start
+        justifyContent: center
+      subtitle:
+        textAlign: center
     type: FeaturedPostsSection
     hoverEffect: move-up
 styles:
