@@ -32,9 +32,7 @@ styles:
     textAlign: center
 seo:
   metaTitle: Q&A - Scannata Records
-  metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
+  metaDescription: 'Scannata Records Q&A, Questions and Answers'
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
