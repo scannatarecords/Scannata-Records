@@ -1,19 +1,6 @@
 {
     "name": "Ayomide O.",
     "role": "",
-    "image": {
-        "url": "/images/Adobe Express - file (2).jpg",
-        "altText": "Ayomide O.",
-        "styles": {
-            "self": {
-                "borderRadius": "medium",
-                "margin": [
-                    "mb-8"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "colors": "bg-neutral-fg-dark",
     "styles": {
         "self": {
