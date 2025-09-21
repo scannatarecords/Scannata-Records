@@ -19,6 +19,8 @@ seo:
   socialImage: /images/Adobe Express - file (19).png
   type: Seo
   addTitleSuffix: true
+  metaTags:
+    - type: MetaTag
 colors: bg-neutral-fg-dark
 styles:
   self:
