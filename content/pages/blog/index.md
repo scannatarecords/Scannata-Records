@@ -31,12 +31,11 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
-  metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
-  socialImage: /images/img-placeholder.svg
+  metaTitle: Q&A - Scannata Records
+  metaDescription: 'Scannata Records Q&A, Questions and Answers'
+  socialImage: /images/Adobe Express - file (19).png
   type: Seo
+  addTitleSuffix: true
 type: PostFeedLayout
 bottomSections: []
 postFeed:
