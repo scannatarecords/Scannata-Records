@@ -61,7 +61,7 @@ sections:
         actions:
           - type: Button
             label: Purchase
-            url: /
+            url: 'https://paypal.me/copycaptain?country.x=BE&locale.x=en_US'
             icon: arrowRight
             iconPosition: right
             style: secondary
