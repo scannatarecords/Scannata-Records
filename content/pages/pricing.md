@@ -12,7 +12,7 @@ sections:
     subtitle: Scannata Records Pricing Plans
     plans:
       - title: Individual Music Distribution
-        price: '$19,99'
+        price: '$39,99'
         details: Per Month
         description: >
           We provide Spotify account creation and seamless music distribution
@@ -20,6 +20,7 @@ sections:
         features:
           - Spotify Account Creation
           - Distribute Music on Various Platforms
+          - Social Media Management
         image:
           url: /images/Street Gangster (12).png
           altText: Scannata
@@ -41,7 +42,39 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Premium Music Distribution
+      - type: PricingPlan
+        title: Individual Music Distribution
+        price: '$1499,99'
+        details: One-Time Payment
+        description: |
+          One-Time Payment for the Individual Plan with Business Features.
+        features:
+          - All Platforms Account Creation
+          - Social Media Management
+          - Collaboration With Various Artists
+          - Distribution on All Platforms
+          - + Sample Beats Without Copyright
+        image:
+          type: ImageBlock
+          url: /images/Adobe Express - file (19).png
+          altText: Pricing plan 1
+        actions:
+          - type: Button
+            label: Try for free
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - title: Business Music Distribution
         price: Inquire
         details: >-
           Give us a call, or email us to see what your needs are, and we'll give
@@ -65,7 +98,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Contact us
-            url: /
+            url: 'https://www.instagram.com/scannata.records'
             icon: arrowRight
             iconPosition: right
             style: secondary
