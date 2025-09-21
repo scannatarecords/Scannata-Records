@@ -197,7 +197,7 @@ sections:
         style: secondary
         elementId: ''
     elementId: '1'
-    variant: small-list
+    variant: toggle-list
     colors: bg-neutral-fg-dark
     styles:
       self:
