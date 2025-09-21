@@ -15,7 +15,7 @@ featuredImage:
 isFeatured: true
 seo:
   metaTitle: Q&A Scannata Records
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
+  metaDescription: 'Q&A, Questions and Answers'
   socialImage: /images/abstract-feature2.svg
   type: Seo
 colors: bg-neutral-fg-dark
