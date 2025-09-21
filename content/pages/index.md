@@ -390,7 +390,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Distributed on
+      text: Our Partners
       color: text-dark
       type: TitleBlock
       styles:
