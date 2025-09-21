@@ -5,18 +5,18 @@ numOfPostsPerPage: 8
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: Q&A
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: Questions and Answers
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
     showAuthor: true
-    variant: big-list
-    colors: bg-light-fg-dark
+    variant: small-list
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
@@ -50,6 +50,6 @@ postFeed:
   actions: []
   elementId: null
   variant: three-col-grid
-  colors: bg-light-fg-dark
+  colors: bg-neutral-fg-dark
   hoverEffect: move-up
 ---

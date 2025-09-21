@@ -1,19 +1,6 @@
 {
-    "name": "Ayomide O.",
-    "role": "",
-    "image": {
-        "url": "/images/Adobe Express - file (2).jpg",
-        "altText": "Ayomide O.",
-        "styles": {
-            "self": {
-                "borderRadius": "medium",
-                "margin": [
-                    "mb-8"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
+    "name": "Santino Kacper Noah Hniedziejko",
+    "role": "Founder & CEO",
     "colors": "bg-neutral-fg-dark",
     "styles": {
         "self": {
@@ -32,5 +19,16 @@
         }
     },
     "type": "Person",
-    "bio": "3D Modeler\n"
+    "bio": "Founder & CEO of Scannata Records\n",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/image_2025-09-11_230701109.png",
+        "altText": "",
+        "elementId": "",
+        "styles": {
+            "self": {
+                "borderRadius": "medium"
+            }
+        }
+    }
 }
