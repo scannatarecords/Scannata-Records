@@ -64,6 +64,33 @@ sections:
           - pl-3
           - pb-3
           - pr-3
+  - subtitle: Award winning enterprises trust us with music distribution
+    images:
+      - url: /images/Adobe Express - file (6).png
+        altText: Deezer
+        type: ImageBlock
+      - url: /images/images (1).png
+        altText: SoundCloud
+        type: ImageBlock
+      - url: /images/Adobe Express - file (7).png
+        altText: Spotify
+        type: ImageBlock
+      - url: /images/Adobe Express - file (4).png
+        altText: Apple Music
+        type: ImageBlock
+      - url: /images/Adobe Express - file (3).png
+        altText: Amazon Music
+        type: ImageBlock
+    motion: move-to-left
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+        fontStyle: italic
+        fontWeight: 700
+    type: ImageGallerySection
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -182,33 +209,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us with music distribution
-    images:
-      - url: /images/Adobe Express - file (6).png
-        altText: Deezer
-        type: ImageBlock
-      - url: /images/images (1).png
-        altText: SoundCloud
-        type: ImageBlock
-      - url: /images/Adobe Express - file (7).png
-        altText: Spotify
-        type: ImageBlock
-      - url: /images/Adobe Express - file (4).png
-        altText: Apple Music
-        type: ImageBlock
-      - url: /images/Adobe Express - file (3).png
-        altText: Amazon Music
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-        fontStyle: italic
-        fontWeight: 700
-    type: ImageGallerySection
   - type: DividerSection
     title: Statistics
     elementId: ''
