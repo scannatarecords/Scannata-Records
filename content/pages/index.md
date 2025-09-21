@@ -194,7 +194,7 @@ sections:
         style: secondary
         elementId: ''
     elementId: '1'
-    variant: big-list
+    variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
