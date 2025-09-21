@@ -14,10 +14,12 @@ featuredImage:
       borderRadius: medium
 isFeatured: true
 seo:
-  metaTitle: The Top Ten Lessons We’ve Learned Since Our Initial Launch
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
-  socialImage: /images/abstract-feature2.svg
+  metaTitle: Q&A Scannata Records
+  metaDescription: 'Q&A, Questions and Answers'
+  socialImage: /images/Adobe Express - file (19).png
   type: Seo
+  addTitleSuffix: true
+  metaTags: []
 colors: bg-neutral-fg-dark
 styles:
   self:
