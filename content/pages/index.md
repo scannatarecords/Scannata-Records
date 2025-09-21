@@ -390,7 +390,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: ''
+      text: Distributed on
       color: text-dark
       type: TitleBlock
       styles:
