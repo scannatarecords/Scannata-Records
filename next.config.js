@@ -1,14 +1,6 @@
-module.exports = {
-  future: {
-    webpack5: true,
-  },
-  exportPathMap: async function (
-    defaultPathMap,
-    { dev, dir, outDir, distDir, buildId }
-  ) {
-    return {
-      '/': { page: '/' },
-    };
-  },
-  output: 'out',
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  output: 'export',
 };
+
+module.exports = nextConfig;
