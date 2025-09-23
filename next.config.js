@@ -1,15 +1,14 @@
-/**
- * @type {import('next').NextConfig}
- */
-const nextConfig = {
-    env: {
-        stackbitPreview: process.env.STACKBIT_PREVIEW
-    },
-    trailingSlash: true,
-    reactStrictMode: true,
-    allowedDevOrigins: [
-        '192.168.1.84'
-    ]
+module.exports = {
+  future: {
+    webpack5: true,
+  },
+  exportPathMap: async function (
+    defaultPathMap,
+    { dev, dir, outDir, distDir, buildId }
+  ) {
+    return {
+      '/': { page: '/' },
+    };
+  },
+  output: 'out',
 };
-
-module.exports = nextConfig;
